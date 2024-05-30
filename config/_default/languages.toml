@@ -12,29 +12,29 @@ footer_menu_right = "Support"
 footer_content = "Lorem ipsum dolor sit amet, consectetur elit consjat tristique eget amet."
 
 
-################################### Deutsch language #####################################
-[de]
-languageName = "DE"
-languageCode = "de-DE"
-contentDir = "content/deutsch"
+################################### Español language #####################################
+[es]
+languageName = "ES"
+languageCode = "es"
+contentDir = "content/español"
 weight = 2
-[de.params]
+[es.params]
 ########### footer content ##########
 footer_menu_left = "Firma"
-footer_menu_middle = "Produkte"
-footer_menu_right = "Support"
+footer_menu_middle = "Producto"
+footer_menu_right = "Soporte"
 footer_content = "Lorem ipsum dolor sit amet, consectetur elit consjat tristique eget amet."
 
 
-################################### Chinese language #####################################
-[zh-cn]
-languageName = "CN"
-languageCode = "zh-CN"
-contentDir = "content/chinese"
+################################### Catalan language #####################################
+[cat]
+languageName = "CAT"
+languageCode = "cat"
+contentDir = "content/catalan"
 weight = 3
-[zh-cn.params]
+[cat.params]
 ########### footer content ##########
-footer_menu_left = "公司"
-footer_menu_middle = "产品"
-footer_menu_right = "支持"
-footer_content = "痛苦本身就是爱"
+footer_menu_left = "Signatura"
+footer_menu_middle = "Producte"
+footer_menu_right = "Suport"
+footer_content = "Lorem ipsum dolor sit amet, consectetur elit consjat tristique eget amet."
