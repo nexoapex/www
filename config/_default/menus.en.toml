@@ -4,40 +4,11 @@ name = "Home"
 url = ""
 weight = 1
 
-[[main]]
-weight = 4
-name = "Company"
-hasChildren = true
 
 [[main]]
-parent = "Company"
 name = "About"
 url = "/about"
-weight = 1
-
-[[main]]
-parent = "Company"
-name = "Team"
-url = "/team"
-weight = 4
-
-[[main]]
-parent = "Company"
-name = "How It Works"
-url = "/how-it-works"
-weight = 8
-
-[[main]]
-parent = "Company"
-name = "Career"
-url = "/career"
-weight = 9
-
-[[main]]
-parent = "Company"
-name = "Career Details"
-url = "/career/sr-executive-service-assurance"
-weight = 10
+weight = 2
 
 [[main]]
 weight = 6
