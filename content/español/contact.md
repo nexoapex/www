@@ -2,15 +2,15 @@
 title: "Contact Us"
 subtitle: ""
 # meta description
-description: "This is meta description"
+description: "Esta es la descripción meta."
 draft: false
 layout: "contact"
 ---
 
 
-#### Why you should contact us!
+#### ¡Por qué debes contactar con nosotros!
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
 
-* **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+* **Teléfono: +88 125 256 452** 
+* **Correo: info@bigspring.com**
+* **Dirección: 360 Main rd, Rio, Brazil**

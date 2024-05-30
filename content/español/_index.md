@@ -1,19 +1,19 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Let us solve your critical website development challenges"
+  title : "Permítanos resolver sus desafíos críticos de desarrollo de sitios web"
   image : "images/banner-art.svg"
-  content : "Create a best strategic tool, share it with your team and ensure it’s on track with intuitive dashboards. <br> Simple enough with the sophistication and flexibility to meet the needs of large enterprises"
+  content : "Cree la mejor herramienta estratégica, compártala con su equipo y asegúrese de que vaya por buen camino con paneles intuitivos. <br> Bastante simple con la sofisticación y flexibilidad para satisfacer las necesidades de las grandes empresas"
   button:
     enable : true
-    label : "Get started for Free"
+    label : "Empieza gratuitamente"
     link : "get-demo/"
 
 
 ########################## Clients Logo Slider #########################
 clients_logo_slider:
   enable : true
-  title: "The best customer experiences are built with Bigspring"
+  title: "Las mejores experiencias para los clientes se crean con Bigspring"
   logos:
   - "images/brands/01-colored.png"
   - "images/brands/02-colored.png"
@@ -31,30 +31,30 @@ clients_logo_slider:
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "The ultimate platform for creating, sharing, and executing."
-  content : "We are helping thousands of organizations run their business strategies and achieve their ambitious results! We make big plans happen."
+  title : "La plataforma definitiva para crear, compartir y ejecutar."
+  content : "¡Estamos ayudando a miles de organizaciones a ejecutar sus estrategias comerciales y lograr sus resultados ambiciosos! Hacemos realidad grandes planes."
   button:
     enable : true
-    label : "Try for Free"
+    label : "Prueba gratis"
     link : "get-demo/"
   feature_item:
   # feature item loop
-  - name : "Cloud Support"
+  - name : "Soporte en la nube"
     icon : "fab fa-mixcloud"
     content : "Fugiat similique nobis porro cumque stinctio iusto quaerat corrupti."
     
   # feature item loop
-  - name : "Object Oriented"
+  - name : "Orientado a objetos"
     icon : "far fa-dot-circle"
     content : "Fugiat similique nobis porro cumque voluptates tempus eupo stinctio."
     
   # feature item loop
-  - name : "24h Service"
+  - name : "Servicio 24h"
     icon : "fas fa-headphones-alt"
     content : "Fugiat similique nobis porro cumque voluptates tempus eupo stinctio."
     
   # feature item loop
-  - name : "Faster Response"
+  - name : "Respuesta más rápida"
     icon : "far fa-thumbs-up"
     content : "Fugiat similique nobis porro cumque voluptates tempus eupo stinctio."
       
@@ -62,7 +62,7 @@ feature:
 ######################### Intro Video #####################
 intro_video:
   enable: true
-  title: "Built exclusively for you"
+  title: "Construido exclusivamente para ti"
   content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin."
   video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"
   video_thumbnail: "images/video-popup.jpg"
@@ -74,7 +74,7 @@ service:
   enable : true
   service_item:
   # service item loop
-  - title : "It is the most advanced digital marketing company."
+  - title : "Es la empresa de marketing digital más avanzada."
     images:
     - "images/service-1.png"
     - "images/service-2.png"
@@ -82,19 +82,19 @@ service:
     content : "Adipiscing elit Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       
   # service item loop
-  - title : "It is a privately owned Information and cyber security company"
+  - title : "Es una empresa privada de seguridad informática y cibernética."
     images:
     - "images/service-1.png"
     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       
   # service item loop
-  - title : "It’s a team of experienced and skilled people with distributions"
+  - title : "Es un equipo de personas experimentadas y capacitadas con distribuciones."
     images:
     - "images/service-2.png"
     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       
   # service item loop
-  - title : "A company standing different from others"
+  - title : "Una empresa diferente a las demás"
     images:
     - "images/service-3.png"
     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
@@ -103,7 +103,7 @@ service:
 ################### Testimonials ########################
 testimonials:
   enable: true
-  title: "Trusted by those you trust"
+  title: "Confiado por aquellos en quienes confías"
   content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin."
   
   testimonials_quotes:
@@ -126,7 +126,7 @@ testimonials:
 ################### tools_intregrate ########################
 tools_intregrate:
   enable : true
-  title : "Integrate with all the tools your teams love using"
+  title : "Integre con todas las herramientas que a sus equipos les encanta usar"
   content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin."
   image : "images/screenshot.svg"
 
@@ -146,7 +146,7 @@ tools_intregrate:
 ##################### Call to action #####################
 call_to_action:
   enable : true
-  title : "Ready to get started?"
+  title : "¿Listo para empezar?"
   content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat eget amtempus eu at consecttur."
   button:
     enable : true
