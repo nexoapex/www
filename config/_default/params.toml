@@ -28,7 +28,7 @@ google_tag_manager = "" # example: G-XXXXXXXXXX
 custom_script = ""
 # copyright
 theme_copyright = true
-copyright = "Copyright by your company"
+copyright = "Nexo Apex S.L."
 
 # Preloader
 [preloader]
