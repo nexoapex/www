@@ -1,0 +1,92 @@
+- id: read_more
+  translation: Llegeix més
+  
+- id: read_case_study
+  translation: Llegiu l'estudi de cas complet
+  
+- id: view_product
+  translation: Veure el producte
+
+- id: send
+  translation: Enviar missatge
+
+- id: category
+  translation: Categoria
+
+- id: tags
+  translation: Etiquetes
+
+- id: by
+  translation: per
+
+- id: min_read
+  translation: min Llegir
+
+- id: admin
+  translation: Admin
+
+- id: lets_meet
+  translation: Anem a quedar
+
+- id: prev_case
+  translation: Cas anterior
+
+- id: next_case
+  translation: Següent cas
+
+- id: apply_for_position
+  translation: Sol·licitar posició
+
+- id: view_all_positions
+  translation: Veure totes les posicions
+
+- id: apply_now
+  translation: Aplica ja
+
+- id: share_this_job
+  translation: "Comparteix aquest treball:"
+
+- id: other_jobs
+  translation: Altres treballs
+
+- id: all_jobs
+  translation: Tots els treballs
+  
+- id: fname
+  translation: Primer nom
+  
+- id: full_name
+  translation: Nom complet
+  
+- id: lname
+  translation: Cognom
+  
+- id: email
+  translation: Correu electrònic
+  
+- id: website
+  translation: Lloc web
+  
+- id: organization_size
+  translation: Mida de l'organització*
+  
+- id: region
+  translation: Regió*
+  
+- id: message
+  translation: Missatge
+  
+- id: submit_now
+  translation: Apliqui ara
+  
+- id: get_demo
+  translation: Obtenir demo
+  
+- id: cv_note
+  translation: només es permet el document, el fitxer pdf i la mida del fitxer serà inferior a 2 MB
+  
+- id: upload_cv
+  translation: Pujar CV
+  
+- id: search_faq
+  translation: Feu clic i cerqueu preguntes freqüents..

@@ -1,0 +1,40 @@
+################################### English language #####################################
+[en]
+languageName = "EN"
+languageCode = "en-US"
+contentDir = "content/english"
+weight = 1
+[en.params]
+########### footer content ##########
+footer_menu_left = "Company"
+footer_menu_middle = "Products"
+footer_menu_right = "Support"
+footer_content = "Lorem ipsum dolor sit amet, consectetur elit consjat tristique eget amet."
+
+
+################################### Español language #####################################
+[es]
+languageName = "ES"
+languageCode = "es"
+contentDir = "content/español"
+weight = 2
+[es.params]
+########### footer content ##########
+footer_menu_left = "Firma"
+footer_menu_middle = "Producto"
+footer_menu_right = "Soporte"
+footer_content = "Lorem ipsum dolor sit amet, consectetur elit consjat tristique eget amet."
+
+
+################################### Catalan language #####################################
+[cat]
+languageName = "CAT"
+languageCode = "cat"
+contentDir = "content/catalan"
+weight = 3
+[cat.params]
+########### footer content ##########
+footer_menu_left = "Signatura"
+footer_menu_middle = "Producte"
+footer_menu_right = "Suport"
+footer_content = "Lorem ipsum dolor sit amet, consectetur elit consjat tristique eget amet."

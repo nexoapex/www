@@ -1,0 +1,123 @@
+---
+title: "Nuestro equipo"
+subtitle: "Conozca a nuestro equipo"
+# meta description
+description: "Vestibulum ante ipsum primis in faucibus orci luctus ultrices posuere cubilia Curae Donec"
+draft: false
+layout: "team"
+
+
+# team_members
+team_members:
+- name: "Justine Marshall"
+  designation: "Desarrollador"
+  image: "images/team/team-member-1.jpg"
+  social_profile:
+  - name: "Facebook"
+    icon: "fab fa-facebook"
+    link: "#!"
+  - name: "Twitter"
+    icon: "fab fa-twitter"
+    link: "#!"
+  - name: "Linkedin"
+    icon: "fab fa-linkedin"
+    link: "#!"
+
+- name: "Liam Hughes"
+  designation: "Diseñador"
+  image: "images/team/team-member-2.jpg"
+  social_profile:
+  - name: "Facebook"
+    icon: "fab fa-facebook"
+    link: "#!"
+  - name: "Twitter"
+    icon: "fab fa-twitter"
+    link: "#!"
+  - name: "Linkedin"
+    icon: "fab fa-linkedin"
+    link: "#!"
+
+- name: "Neil Roberts"
+  designation: "Comercializador"
+  image: "images/team/team-member-3.jpg"
+  social_profile:
+  - name: "Facebook"
+    icon: "fab fa-facebook"
+    link: "#!"
+  - name: "Twitter"
+    icon: "fab fa-twitter"
+    link: "#!"
+  - name: "Linkedin"
+    icon: "fab fa-linkedin"
+    link: "#!"
+
+- name: "Tim kook"
+  designation: "Desarrollador junior"
+  image: "images/team/team-member-4.jpg"
+  social_profile:
+  - name: "Facebook"
+    icon: "fab fa-facebook"
+    link: "#!"
+  - name: "Twitter"
+    icon: "fab fa-twitter"
+    link: "#!"
+  - name: "Linkedin"
+    icon: "fab fa-linkedin"
+    link: "#!"
+
+- name: "John Domingo"
+  designation: "Comercializador SEO"
+  image: "images/team/team-member-5.jpg"
+  social_profile:
+  - name: "Facebook"
+    icon: "fab fa-facebook"
+    link: "#!"
+  - name: "Twitter"
+    icon: "fab fa-twitter"
+    link: "#!"
+  - name: "Linkedin"
+    icon: "fab fa-linkedin"
+    link: "#!"
+
+- name: "Angelina Jolie"
+  designation: "Desarrollador"
+  image: "images/team/team-member-6.jpg"
+  social_profile:
+  - name: "Facebook"
+    icon: "fab fa-facebook"
+    link: "#!"
+  - name: "Twitter"
+    icon: "fab fa-twitter"
+    link: "#!"
+  - name: "Linkedin"
+    icon: "fab fa-linkedin"
+    link: "#!"
+
+- name: "Perez Hilton"
+  designation: "Desarrollador"
+  image: "images/team/team-member-7.jpg"
+  social_profile:
+  - name: "Facebook"
+    icon: "fab fa-facebook"
+    link: "#!"
+  - name: "Twitter"
+    icon: "fab fa-twitter"
+    link: "#!"
+  - name: "Linkedin"
+    icon: "fab fa-linkedin"
+    link: "#!"
+
+- name: "Timothy Sykes"
+  designation: "Desarrollador"
+  image: "images/team/team-member-8.jpg"
+  social_profile:
+  - name: "Facebook"
+    icon: "fab fa-facebook"
+    link: "#!"
+  - name: "Twitter"
+    icon: "fab fa-twitter"
+    link: "#!"
+  - name: "Linkedin"
+    icon: "fab fa-linkedin"
+    link: "#!"
+---
