@@ -3,4 +3,4 @@ publish = "public"
 command = "hugo --gc --minify"
 
 [context.production.environment]
-HUGO_VERSION = "<latest version>"
+HUGO_VERSION = "0.127.0"
