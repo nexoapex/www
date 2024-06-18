@@ -1,16 +1,14 @@
 ---
-title: "Contact Us"
+title: "Contacta'ns"
 subtitle: ""
 # meta description
-description: "This is meta description"
+description: "Aquesta es la descripció meta"
 draft: false
 layout: "contact"
 ---
 
 
-#### Why you should contact us!
+#### Per que ens deuries de contactar!
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
 
-* **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+* **Correu: info@nexoapex.com**
