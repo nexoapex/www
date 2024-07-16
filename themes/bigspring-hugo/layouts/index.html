@@ -91,6 +91,30 @@
 {{ end }}
 <!-- /feature -->
 
+<!-- feature box -->
+{{if .Params.features_box.enable}}
+{{with .Params.features_box}}
+<section class="section bg-light">
+  <div class="container">
+    <div class="row gy-4">
+      {{range .features_box_item}}
+      <div class="col-lg-4 col-md-6">
+        <div class="feature-card is-hoverable py-5 bg-white rounded-1 text-center">
+          <div class="mt-3 bg-primary text-white mx-auto rounded-1 shadow h5 mb-5 d-flex align-items-center justify-content-center" style="height:65px;width:65px">
+            <i class="{{.icon}}"></i>
+          </div>
+          <h3 class="h5 mb-3">{{.title | markdownify}}</h3>
+          <p class="mb-3">{{.content | markdownify}}</p>
+        </div>
+      </div>
+      {{end}}
+    </div>
+  </div>
+</section>
+{{end}}
+{{end}}
+<!-- /feature box-->
+
 <!-- intro_video -->
 {{ with .Params.intro_video }}
 {{ if .enable }}
