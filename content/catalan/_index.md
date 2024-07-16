@@ -1,7 +1,7 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Let us solve your critical website development challenges"
+  title : "Transformacions digitals Apex"
   image : "images/banner-art.svg"
   content : "Create a best strategic tool, share it with your team and ensure it’s on track with intuitive dashboards. <br> Simple enough with the sophistication and flexibility to meet the needs of large enterprises"
   button:

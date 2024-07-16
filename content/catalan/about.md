@@ -9,8 +9,8 @@ layout: "about"
 
 # about
 about:
-  title: "Give Your Team The Design Mindset & Tools"
-  content: "Create a best strategic tool, share it with your team and ensure it’s on track with intuitive dashboards. Simple enough with the flexibility Lorem ipsum dolor sit amet consectetur adipisicing elit. "
+  title: "Som Nexo Apex. Una companyia que crea productes digitals i experiències per humans."
+  content: "Estem especialitzats en desenvolupar productes digitals avantguardes, bots, infrastructura digital, aplicacions híbrides i pàgines web. I fem això per portar els nostres clients a través de cada fase amb nosaltres."
   image: "images/about.jpg"
 
 
