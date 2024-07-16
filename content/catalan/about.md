@@ -38,7 +38,23 @@ our_mission:
   
   
   The industry gold standard has become to decentralize business intelligence, so that every team is autonomous in making data-driven decisions quickly."
-
+# clients_logo_slider
+clients_logo_slider:
+  enable : true
+  title: "The best customer experiences are built with Bigspring"
+  logos:
+  - "images/brands/01-colored.png"
+  - "images/brands/02-colored.png"
+  - "images/brands/03-colored.png"
+  - "images/brands/04-colored.png"
+  - "images/brands/05-colored.png"
+  - "images/brands/06-colored.png"
+  - "images/brands/03-colored.png"
+  - "images/brands/01-colored.png"
+  - "images/brands/02-colored.png"
+  - "images/brands/04-colored.png"
+  - "images/brands/05-colored.png"
+  - "images/brands/06-colored.png"
 
 # fun facts
 fun_facts:
@@ -109,4 +125,119 @@ office_culture:
       enable : true
       label : "View open Positions"
       link : "career/"
+
+      
+# team_members
+team_members:
+- name: "Justine Marshall"
+  designation: "Developer"
+  image: "images/team/team-member-1.jpg"
+  social_profile:
+  - name: "Facebook"
+    icon: "fab fa-facebook"
+    link: "#!"
+  - name: "Twitter"
+    icon: "fab fa-twitter"
+    link: "#!"
+  - name: "Linkedin"
+    icon: "fab fa-linkedin"
+    link: "#!"
+
+- name: "Liam Hughes"
+  designation: "Designer"
+  image: "images/team/team-member-2.jpg"
+  social_profile:
+  - name: "Facebook"
+    icon: "fab fa-facebook"
+    link: "#!"
+  - name: "Twitter"
+    icon: "fab fa-twitter"
+    link: "#!"
+  - name: "Linkedin"
+    icon: "fab fa-linkedin"
+    link: "#!"
+
+- name: "Neil Roberts"
+  designation: "Marketer"
+  image: "images/team/team-member-3.jpg"
+  social_profile:
+  - name: "Facebook"
+    icon: "fab fa-facebook"
+    link: "#!"
+  - name: "Twitter"
+    icon: "fab fa-twitter"
+    link: "#!"
+  - name: "Linkedin"
+    icon: "fab fa-linkedin"
+    link: "#!"
+
+- name: "Tim kook"
+  designation: "Junior Developer"
+  image: "images/team/team-member-4.jpg"
+  social_profile:
+  - name: "Facebook"
+    icon: "fab fa-facebook"
+    link: "#!"
+  - name: "Twitter"
+    icon: "fab fa-twitter"
+    link: "#!"
+  - name: "Linkedin"
+    icon: "fab fa-linkedin"
+    link: "#!"
+
+- name: "John Domingo"
+  designation: "SEO Marketer"
+  image: "images/team/team-member-5.jpg"
+  social_profile:
+  - name: "Facebook"
+    icon: "fab fa-facebook"
+    link: "#!"
+  - name: "Twitter"
+    icon: "fab fa-twitter"
+    link: "#!"
+  - name: "Linkedin"
+    icon: "fab fa-linkedin"
+    link: "#!"
+
+- name: "Angelina Jolie"
+  designation: "Developer"
+  image: "images/team/team-member-6.jpg"
+  social_profile:
+  - name: "Facebook"
+    icon: "fab fa-facebook"
+    link: "#!"
+  - name: "Twitter"
+    icon: "fab fa-twitter"
+    link: "#!"
+  - name: "Linkedin"
+    icon: "fab fa-linkedin"
+    link: "#!"
+
+- name: "Perez Hilton"
+  designation: "Developer"
+  image: "images/team/team-member-7.jpg"
+  social_profile:
+  - name: "Facebook"
+    icon: "fab fa-facebook"
+    link: "#!"
+  - name: "Twitter"
+    icon: "fab fa-twitter"
+    link: "#!"
+  - name: "Linkedin"
+    icon: "fab fa-linkedin"
+    link: "#!"
+
+- name: "Timothy Sykes"
+  designation: "Developer"
+  image: "images/team/team-member-8.jpg"
+  social_profile:
+  - name: "Facebook"
+    icon: "fab fa-facebook"
+    link: "#!"
+  - name: "Twitter"
+    icon: "fab fa-twitter"
+    link: "#!"
+  - name: "Linkedin"
+    icon: "fab fa-linkedin"
+    link: "#!"
 ---
