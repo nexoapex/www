@@ -19,40 +19,94 @@
 {{end}}
 
 
-<section class="section bg-light">
-  <div class="container">
-    <div class="row gy-5 justify-content-center">
-      {{with .Params.founders_quote}}
-      <div class="col-lg-8 text-center mx-auto mb-5">
-        <p class="lead text-dark">{{.content | markdownify}}</p>
-        {{ partial "image" (dict "Src" .image "Alt" .name "Size" "100x" "Class" "rounded-circle mt-3") }}
-        <h3 class="section-title h5 mt-3 mb-2">{{.name | markdownify}}</h3>
-        <p class="mb-0">{{.subtitle | markdownify}}</p>
-      </div>
-      {{end}}
+  <section class="section bg-light">
+    <div class="container">
+{{/*        <div class="row gy-5 justify-content-center">
+        {{with .Params.founders_quote}}
+        <div class="col-lg-8 text-center mx-auto mb-5">
+          <p class="lead text-dark">{{.content | markdownify}}</p>
+          {{ partial "image" (dict "Src" .image "Alt" .name "Size" "100x" "Class" "rounded-circle mt-3") }}
+          <h3 class="section-title h5 mt-3 mb-2">{{.name | markdownify}}</h3>
+          <p class="mb-0">{{.subtitle | markdownify}}</p>
+        </div>
+        {{end}}  */}}
 
-      {{with .Params.who_we_are}}
-      <div class="col-lg-6">
-        <div class="bg-white px-4 py-5 px-lg-6 rounded-2">
-          <h2 class="section-title h3">{{.title | markdownify}}</h2>
-          <p class="mb-0">{{.content | markdownify}}</p>
+{{/*          {{with .Params.who_we_are}}
+        <div class="col-lg-6">
+          <div class="bg-white px-4 py-5 px-lg-6 rounded-2">
+            <h2 class="section-title h3">{{.title | markdownify}}</h2>
+            <p class="mb-0">{{.content | markdownify}}</p>
+          </div>
+        </div>
+        {{end}}  */}}
+
+        {{with .Params.our_mission}}
+        <div class="col-lg-12">
+          <div class="bg-white px-4 py-5 px-lg-6 rounded-2 text-center">
+            <h2 class="section-title h3">{{.title | markdownify}}</h2>
+            <p class="mb-0">{{.content | markdownify}}</p>
+          </div>
+        </div>
+        {{end}}
+      </div>
+    </div>
+  </section>
+
+{{ if .Params.clients_logo_slider.enable }}
+{{ with .Params.clients_logo_slider }}
+<section class="section overflow-hidden">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center mb-5">
+        <h2 class="h2">{{.title | markdownify}}</h2>
+      </div>
+      <div class="col-12">
+        <div class="swiper brand-carousel">
+          <div class="swiper-wrapper">
+            {{ range .logos }}
+            <div class="swiper-slide brand-item d-flex align-items-center justify-content-center">
+              {{ partial "image" (dict "Src" . "Alt" "Brands logo" "Size" "x35") }}
+            </div>
+            {{ end }}
+          </div>
         </div>
       </div>
-      {{end}}
-      {{with .Params.our_mission}}
-      <div class="col-lg-6">
-        <div class="bg-white px-4 py-5 px-lg-6 rounded-2">
-          <h2 class="section-title h3">{{.title | markdownify}}</h2>
-          <p class="mb-0">{{.content | markdownify}}</p>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
+{{ partial "page-header.html" .}}
+
+{{with .Params.team_members}}
+<section class="section">
+  <div class="container">
+    <div class="row gy-5">
+      {{range .}}
+      <div class="col-xl-3 col-lg-4">
+        <div class="card bg-transparent border-0 text-center">
+          {{ partial "image" (dict "Src" .image "Alt" .name "Class" "card-img-top rounded-2" "Size" "380x") }}
+          <div class="card-body px-0">
+            {{with .name}}<h3 class="h5 mb-1">{{. | markdownify }}</h3>{{end}}
+            {{with .designation}}<p class="mb-0">{{. | markdownify }}</p>{{end}}
+            {{with .social_profile}}
+            <ul class="list-inline social-icons-alt mb-0 mt-2" style="margin-left:-7px">
+              {{range .}}
+              <li class="list-inline-item me-0"><a class="p-2" href="{{.link | safeURL}}" title="{{.name}}"><i class="{{.icon}}"></i></a></li>
+              {{end}}
+            </ul>
+            {{end}}
+          </div>
         </div>
       </div>
       {{end}}
     </div>
   </div>
 </section>
+{{end}}
 
-
-{{with .Params.fun_facts}}
+{{/*  {{with .Params.fun_facts}}
 {{if .enable}}
 <section class="section">
   <div class="container container-delta">
@@ -77,10 +131,10 @@
   </div>
 </section>
 {{end}}
-{{end}}
+{{end}}  */}}
 
 
-{{if .Params.features_box.enable}}
+{{/*  {{if .Params.features_box.enable}}
 {{with .Params.features_box}}
 <section class="section bg-light">
   <div class="container">
@@ -100,10 +154,10 @@
   </div>
 </section>
 {{end}}
-{{end}}
+{{end}}  */}}
 
 
-{{if .Params.office_culture.enable}}
+{{/*  {{if .Params.office_culture.enable}}
 {{with .Params.office_culture}}
 <section class="section">
   <div class="container">
@@ -143,6 +197,6 @@
   </div>
 </section>
 {{end}}
-{{end}}
+{{end}}  */}}
 
 {{ end }}
