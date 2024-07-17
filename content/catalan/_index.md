@@ -182,6 +182,6 @@ call_to_action:
   title : "ANEM A TREBALLAR JUNTS"
   button:
     enable : true
-    label : "Enviar consulta"
+    label : "Enviar una consulta"
     link : "contact/"
 ---
