@@ -1,18 +1,12 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Let us solve your critical website development challenges"
+  title : "Fruitful Digital Transformation"
   image : "images/banner-art.svg"
-  content : "Create a best strategic tool, share it with your team and ensure it’s on track with intuitive dashboards. <br> Simple enough with the sophistication and flexibility to meet the needs of large enterprises"
   button:
     enable : true
-    label : "Get started for Free"
-    link : "get-demo/"
-
-    button:
-    enable : true
-    label : "mamaguevo"
-    link : "get-demo/"
+    label : "Connect with Us"
+    link : "contact/"
 
 
 ########################## Clients Logo Slider #########################
