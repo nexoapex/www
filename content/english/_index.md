@@ -9,6 +9,11 @@ banner:
     label : "Get started for Free"
     link : "get-demo/"
 
+    button:
+    enable : true
+    label : "mamaguevo"
+    link : "get-demo/"
+
 
 ########################## Clients Logo Slider #########################
 clients_logo_slider:
@@ -53,54 +58,72 @@ feature:
 
     content : "500+"
      
-  ######################### Portfolio #####################
+######################### Intro Video #####################
+# intro_video:
+#   enable: true
+#   title: "Built exclusively for you"
+#   content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin."
+#   video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"
+#   video_thumbnail: "images/video-popup.jpg"
+
+######################### Portfolio #####################
 
 features_box:
   enable: true
+  title: "OUR PORTFOLIO"
+  content: "Crafting digital products making the complex clear & beautiful."
   features_box_item:
-  - icon: "fas fa-file-signature"
-    title: "We care about <br> our customers"
-    content: "Curabitur aliquet quam id dui posuere blandit. Donec sollicitudin molestie malesuada praesent."
+  - image: "images/portfolio/1to1video-website.webp"
+    title: "Digital Avocados | 1to1video Website"
+    label: "view project"
+    link: "https://digitalavocados.com/portfolio/1to1video-website/"
 
-  - icon: "fas fa-hands-helping"
-    title: "Your design partner now <br> and in the future"
-    content: "Curabitur aliquet quam id dui posuere blandit. Donec sollicitudin molestie malesuada praesent."
-    
-  - icon: "fas fa-headset"
-    title: "Around the clock <br> support from day one"
-    content: "Curabitur aliquet quam id dui posuere blandit. Donec sollicitudin molestie malesuada praesent."
+  - image: "images/portfolio/lactapp-infrastructure.jpeg"
+    title: "Digital Avocados | LactApp Digital Infrastructure"
+    label: "view project"
+    link: "https://digitalavocados.com/portfolio/lactapp-infrastructure/"
+
+  - image: "images/portfolio/lactapp-website.webp"
+    title: "Digital Avocados | LactApp Website"
+    label: "view project"
+    link: "https://digitalavocados.com/portfolio/lactapp-website/"
+
+  - image: "images/portfolio/tas-consultoria.webp"
+    title: "Digital Avocados | TAS Consultoria Website"
+    label: "view project"
+    link: "https://digitalavocados.com/portfolio/tas-consultoria/"
 
 
 
 ######################### Service #####################
-service:
-  enable : true
-  service_item:
-  # service item loop
-  - title : "It is the most advanced digital marketing company."
-    images:
-    - "images/service-1.png"
-    - "images/service-2.png"
-    - "images/service-3.png"
-    content : "Adipiscing elit Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+# service:
+#   enable : true
+#   service_item:
+#   # service item loop
+#   - title : "It is the most advanced digital marketing company."
+#     images:
+#     - "images/service-1.png"
+#     - "images/service-2.png"
+#     - "images/service-3.png"
+#     content : "Adipiscing elit Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       
-  # service item loop
-  - title : "It is a privately owned Information and cyber security company"
-    images:
-    - "images/service-1.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+#   # service item loop
+#   - title : "It is a privately owned Information and cyber security company"
+#     images:
+#     - "images/service-1.png"
+#     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       
-  # service item loop
-  - title : "It’s a team of experienced and skilled people with distributions"
-    images:
-    - "images/service-2.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+#   # service item loop
+#   - title : "It’s a team of experienced and skilled people with distributions"
+#     images:
+#     - "images/service-2.png"
+#     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       
-  # service item loop
-  - title : "A company standing different from others"
-    images:
-    - "images/service-3.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+#   # service item loop
+#   - title : "A company standing different from others"
+#     images:
+#     - "images/service-3.png"
+#     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
        
        
 ################### Testimonials ########################
@@ -140,6 +163,24 @@ testimonials:
     designation: "Senior Architect"
     image: "images/avatar/yann_torres.jpeg"
 
+
+################### tools_intregrate ########################
+# tools_intregrate:
+#   enable : true
+#   title : "Integrate with all the tools your teams love using"
+#   content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin."
+#   image : "images/screenshot.svg"
+
+#   tools:
+#   - "images/tools/01.png"
+#   - "images/tools/02.png"
+#   - "images/tools/03.png"
+#   - "images/tools/04.png"
+#   - "images/tools/05.png"
+#   - "images/tools/06.png"
+#   - "images/tools/08.png"
+#   - "images/tools/09.png"
+#   - "images/tools/10.png"
 
 ##################### Call to action #####################
 call_to_action:
