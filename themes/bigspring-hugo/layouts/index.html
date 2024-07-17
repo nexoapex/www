@@ -24,7 +24,7 @@
 <!-- /banner -->
 
 <!-- clients_logo_slider -->
-{{ if .Params.clients_logo_slider.enable }}
+{{/*  {{ if .Params.clients_logo_slider.enable }}
 {{ with .Params.clients_logo_slider }}
 <section class="section overflow-hidden">
   <div class="container">
@@ -47,7 +47,7 @@
   </div>
 </section>
 {{ end }}
-{{ end }}
+{{ end }}  */}}
 <!-- clients_logo_slider -->
 
 <!-- feature -->
@@ -90,6 +90,32 @@
 {{ end }}
 {{ end }}
 <!-- /feature -->
+
+<!-- feature box -->
+{{if .Params.features_box.enable}}
+{{with .Params.features_box}}
+<section class="section bg-light">
+  <div class="container">
+    <div class="row gy-4">
+      <h2 class="mb-4 pb-2">{{ .title | markdownify }}</h2>
+        <p class="mb-4">{{ .content | markdownify }}</p>
+      {{range .features_box_item}}
+      <div class="col-lg-4 col-md-6">
+        <div class="feature-card is-hoverable py-5 bg-white rounded-1 text-center">
+          <div class="card bg-transparent border-0 text-center" style="margin-bottom: 15px;">
+            {{ partial "image" (dict "Src" .image "Alt" .name "Class" "card-img-top rounded-2" "Size" "380x") }}
+          </div>
+          <h3 class="h5 mb-3">{{.title | markdownify}}</h3>
+          <a class="mb-3" href="{{ .link | relLangURL }}" title="{{ .label }}" class="btn btn-primary">{{ .label }}</a>
+        </div>
+      </div>
+      {{end}}
+    </div>
+  </div>
+</section>
+{{end}}
+{{end}}
+<!-- /feature box-->
 
 <!-- intro_video -->
 {{ with .Params.intro_video }}
