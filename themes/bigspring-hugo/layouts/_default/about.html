@@ -81,6 +81,7 @@
 
 {{ partial "page-header.html" .}}
 
+
 {{with .Params.team_members}}
 <section class="section">
   <div class="container">
@@ -88,7 +89,8 @@
       {{range .}}
       <div class="col-xl-3 col-lg-4">
         <div class="card bg-transparent border-0 text-center">
-          {{ partial "image" (dict "Src" .image "Alt" .name "Class" "card-img-top rounded-2" "Size" "380x") }}
+          {{ partial "image" (dict "Src" .image "Alt" .name "Class" "card-img-top rounded-2" "Size" "300x300") }}
+      
           <div class="card-body px-0">
             {{with .name}}<h3 class="h5 mb-1">{{. | markdownify }}</h3>{{end}}
             {{with .designation}}<p class="text-dark mb-0">{{. | markdownify }}</p>{{end}}
