@@ -34,7 +34,7 @@ about:
 # our_mission
 our_mission:
   title: "Experiència"
-  content: "<ul>
+  content: "<ul style='list-style: none;'>
             <li>Productes digitals</li>
             <li>Solucions d'arquitectura</li>
             <li>Desenvolupament</li>
