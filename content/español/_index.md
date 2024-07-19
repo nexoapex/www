@@ -1,155 +1,189 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Permítanos resolver sus desafíos críticos de desarrollo de sitios web"
+  title : "Transformaciones digitales fructíferas"
   image : "images/banner-art.svg"
-  content : "Cree la mejor herramienta estratégica, compártala con su equipo y asegúrese de que vaya por buen camino con paneles intuitivos. <br> Bastante simple con la sofisticación y flexibilidad para satisfacer las necesidades de las grandes empresas"
   button:
     enable : true
-    label : "Empieza gratuitamente"
-    link : "get-demo/"
+    label : "Conecta amb nosotros"
+    link : "contact/"
 
 
 ########################## Clients Logo Slider #########################
-clients_logo_slider:
-  enable : true
-  title: "Las mejores experiencias para los clientes se crean con Bigspring"
-  logos:
-  - "images/brands/01-colored.png"
-  - "images/brands/02-colored.png"
-  - "images/brands/03-colored.png"
-  - "images/brands/04-colored.png"
-  - "images/brands/05-colored.png"
-  - "images/brands/06-colored.png"
-  - "images/brands/03-colored.png"
-  - "images/brands/01-colored.png"
-  - "images/brands/02-colored.png"
-  - "images/brands/04-colored.png"
-  - "images/brands/05-colored.png"
-  - "images/brands/06-colored.png"
+# clients_logo_slider:
+#   enable : true
+#   title: "Las mejores experiencias para los clientes se crean con Bigspring"
+#   logos:
+#   - "images/brands/01-colored.png"
+#   - "images/brands/02-colored.png"
+#   - "images/brands/03-colored.png"
+#   - "images/brands/04-colored.png"
+#   - "images/brands/05-colored.png"
+#   - "images/brands/06-colored.png"
+#   - "images/brands/03-colored.png"
+#   - "images/brands/01-colored.png"
+#   - "images/brands/02-colored.png"
+#   - "images/brands/04-colored.png"
+#   - "images/brands/05-colored.png"
+#   - "images/brands/06-colored.png"
 
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "La plataforma definitiva para crear, compartir y ejecutar."
-  content : "¡Estamos ayudando a miles de organizaciones a ejecutar sus estrategias comerciales y lograr sus resultados ambiciosos! Hacemos realidad grandes planes."
-  button:
-    enable : true
-    label : "Prueba gratis"
-    link : "get-demo/"
+  title : "LA PRUEBA ESTAN EN LOS RESULTADOS!"
   feature_item:
   # feature item loop
-  - name : "Soporte en la nube"
-    icon : "fab fa-mixcloud"
-    content : "Fugiat similique nobis porro cumque stinctio iusto quaerat corrupti."
+  - name : "Clientes contentos"
+   
+    content : "20+"
     
   # feature item loop
-  - name : "Orientado a objetos"
-    icon : "far fa-dot-circle"
-    content : "Fugiat similique nobis porro cumque voluptates tempus eupo stinctio."
+  - name : "Proyectos finalizados"
+
+    content : "50+"
     
   # feature item loop
-  - name : "Servicio 24h"
-    icon : "fas fa-headphones-alt"
-    content : "Fugiat similique nobis porro cumque voluptates tempus eupo stinctio."
+  - name : "Tazas de café"
+
+    content : "4.5k+"
     
   # feature item loop
-  - name : "Respuesta más rápida"
-    icon : "far fa-thumbs-up"
-    content : "Fugiat similique nobis porro cumque voluptates tempus eupo stinctio."
+  - name : "Reuniones"
+
+    content : "500+"
       
       
 ######################### Intro Video #####################
-intro_video:
-  enable: true
-  title: "Construido exclusivamente para ti"
-  content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin."
-  video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"
-  video_thumbnail: "images/video-popup.jpg"
+# intro_video:
+#   enable: true
+#   title: "Construido exclusivamente para ti"
+#   content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin."
+#   video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"
+#   video_thumbnail: "images/video-popup.jpg"
 
       
       
 ######################### Service #####################
-service:
-  enable : true
-  service_item:
+# service:
+#   enable : true
+#   service_item:
   # service item loop
-  - title : "Es la empresa de marketing digital más avanzada."
-    images:
-    - "images/service-1.png"
-    - "images/service-2.png"
-    - "images/service-3.png"
-    content : "Adipiscing elit Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  # - title : "Es la empresa de marketing digital más avanzada."
+  #   images:
+  #   - "images/service-1.png"
+  #   - "images/service-2.png"
+  #   - "images/service-3.png"
+  #   content : "Adipiscing elit Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       
-  # service item loop
-  - title : "Es una empresa privada de seguridad informática y cibernética."
-    images:
-    - "images/service-1.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  # # service item loop
+  # - title : "Es una empresa privada de seguridad informática y cibernética."
+  #   images:
+  #   - "images/service-1.png"
+  #   content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       
-  # service item loop
-  - title : "Es un equipo de personas experimentadas y capacitadas con distribuciones."
-    images:
-    - "images/service-2.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  # # service item loop
+  # - title : "Es un equipo de personas experimentadas y capacitadas con distribuciones."
+  #   images:
+  #   - "images/service-2.png"
+  #   content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       
-  # service item loop
-  - title : "Una empresa diferente a las demás"
-    images:
-    - "images/service-3.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  # # service item loop
+  # - title : "Una empresa diferente a las demás"
+  #   images:
+  #   - "images/service-3.png"
+  #   content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
        
        
+################### Portfolio ########################
+
+features_box:
+  enable: true
+  title: "NUESTRO PORTFOLIO"
+  content: "Construyendo productos digitales transformando la complejidad en claredad y belleza."
+  features_box_item:
+  - image: "images/portfolio/1to1video-website.webp"
+    title: "Digital Avocados | 1to1video Website"
+    label: "ver proyecto"
+    link: "https://digitalavocados.com/portfolio/1to1video-website/"
+
+  - image: "images/portfolio/lactapp-infrastructure.jpeg"
+    title: "Digital Avocados | LactApp Digital Infrastructure"
+    label: "ver proyecto"
+    link: "https://digitalavocados.com/portfolio/lactapp-infrastructure/"
+
+  - image: "images/portfolio/lactapp-website.webp"
+    title: "Digital Avocados | LactApp Website"
+    label: "ver proyecto"
+    link: "https://digitalavocados.com/portfolio/lactapp-website/"
+
+  - image: "images/portfolio/tas-consultoria.webp"
+    title: "Digital Avocados | TAS Consultoria Website"
+    label: "ver proyecto"
+    link: "https://digitalavocados.com/portfolio/tas-consultoria/"
+        
 ################### Testimonials ########################
 testimonials:
   enable: true
-  title: "Confiado por aquellos en quienes confías"
-  content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin."
+  title: "OPINIÓN DE GENTE REAL"
+  content: "Que dicen los clientes sobre nuestra colaboración."
   
   testimonials_quotes:
-  - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs dolor faucibus"
-    name: "Ryder Stewart"
-    designation: "Lynch, Marquardt"
-    image: "images/avatar/02.jpg"
+  - quote: "Nexo Apex ha sido clave por nuestro negocio cuando se trata de evolucionar nuestra estrategia digital y convertirse en una compañía first-tech y cloud-native."
+    name: "Enric Pallarès"
+    designation: "CEO, LactApp"
+    image: "images/avatar/enric_pallares.jpeg"
 
-  - quote: "Conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor faucibus"
-    name: "Kade Kim"
-    designation: "Champlin Group"
-    image: "images/avatar/03.jpg"
+  - quote: "Hemos invertido muchos recursos y hemos hecho pruebas de tiempo a otros equipos, freelancers, compañías externas y métodos. Nexo Apex nos ha tremendamente ayudado."
+    name: "Jordi Ginovart"
+    designation: "CEO, 1to1video"
+    image: "images/avatar/jordi_ginovart.jpeg"
 
-  - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor"
-    name: "David Cameron"
-    designation: "CEO, Nexuspay"
-    image: "images/avatar/04.jpg"
-        
+  - quote: "Nexo Apex nos ha permitido entregar mejor calidad a todos nuestros clientes. La agilidad en que ahora podemos implementar nuevas características y workflows es clave."
+    name: "Rocío Tovar"
+    designation: "CTO, LactApp"
+    image: "images/avatar/rocio_tovar.jpeg"
+       
+  - quote: "Eficiencia y confianza es como definimos nuestra colaboración con Nexo Apex. Excelente y provechoso trabajo es el que nos han traído."
+    name: "Jonatan Carbonell"
+    designation: "CEO, TAS Consultoria"
+    image: "images/avatar/jonatan_carbonell.jpeg"
+    
+  - quote: "Construir la infraestructura digital y la solución backend para mis aplicaciones ha sido clave para el éxito del negocio en el que estoy involucrado. Provechosa colaboración."
+    name: "Juan Luis Montero"
+    designation: "Mobile Architect"
+    image: "images/avatar/juanlu_montero.jpeg" 
+
+  - quote: "Conversaciones y diseños esbozados me han ayudado a elevar mis soluciones digitales y aprender durante el proceso. Espero con ganas volver a colaborar."
+    name: "Yann Torres"
+    designation: "Senior Architect"
+    image: "images/avatar/yann_torres.jpeg"
 
 ################### tools_intregrate ########################
-tools_intregrate:
-  enable : true
-  title : "Integre con todas las herramientas que a sus equipos les encanta usar"
-  content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin."
-  image : "images/screenshot.svg"
+# tools_intregrate:
+#   enable : true
+#   title : "Integre con todas las herramientas que a sus equipos les encanta usar"
+#   content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin."
+#   image : "images/screenshot.svg"
 
-  tools:
-  - "images/tools/01.png"
-  - "images/tools/02.png"
-  - "images/tools/03.png"
-  - "images/tools/04.png"
-  - "images/tools/05.png"
-  - "images/tools/06.png"
-  - "images/tools/08.png"
-  - "images/tools/09.png"
-  - "images/tools/10.png"
+#   tools:
+#   - "images/tools/01.png"
+#   - "images/tools/02.png"
+#   - "images/tools/03.png"
+#   - "images/tools/04.png"
+#   - "images/tools/05.png"
+#   - "images/tools/06.png"
+#   - "images/tools/08.png"
+#   - "images/tools/09.png"
+#   - "images/tools/10.png"
 
   
 
 ##################### Call to action #####################
 call_to_action:
   enable : true
-  title : "¿Listo para empezar?"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat eget amtempus eu at consecttur."
+  title : "VAMOS A TRABAJAR JUNTOS"
   button:
     enable : true
-    label : "Contact Us"
+    label : "Enviar Consulta"
     link : "contact/"
 ---
