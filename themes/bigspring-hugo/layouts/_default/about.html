@@ -54,30 +54,6 @@
     </div>
   </section>
 
-{{ if .Params.clients_logo_slider.enable }}
-{{ with .Params.clients_logo_slider }}
-<section class="section overflow-hidden bg-light">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 text-center mb-5">
-        <h2 class="h2">{{.title | markdownify}}</h2>
-      </div>
-      <div class="col-12">
-        <div class="swiper brand-carousel">
-          <div class="swiper-wrapper">
-            {{ range .logos }}
-            <div class="swiper-slide brand-item d-flex align-items-center justify-content-center">
-              {{ partial "image" (dict "Src" . "Alt" "Brands logo" "Size" "x35") }}
-            </div>
-            {{ end }}
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-{{ end }}
-{{ end }}
 
 {{ partial "page-header.html" .}}
 
@@ -110,6 +86,31 @@
 </section>
 {{end}}
 
+{{ if .Params.clients_logo_slider.enable }}
+{{ with .Params.clients_logo_slider }}
+<section class="section overflow-hidden">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center mb-5">
+        <h2 class="h2">{{.title | markdownify}}</h2>
+      </div>
+      <div class="col-12">
+        <div class="swiper brand-carousel">
+          <div class="swiper-wrapper">
+            {{ range .logos }}
+            <div class="swiper-slide brand-item d-flex align-items-center justify-content-center">
+              {{ partial "image" (dict "Src" . "Alt" "Brands logo" "Size" "x35") }}
+            </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
 {{with .Params.fun_facts}}
 {{if .enable}}
 <section class="section">
@@ -136,7 +137,6 @@
 </section>
 {{end}}
 {{end}}
-
 
 {{if .Params.features_box.enable}}
 {{with .Params.features_box}}
