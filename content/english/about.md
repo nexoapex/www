@@ -193,5 +193,11 @@ team_members:
     icon: "fab fa-linkedin"
     link: "#!"
 
-
+- name: "Francisco Rey"
+  designation: "Senior Backend Engineer"
+  image: "images/team/fran.jpeg"
+  social_profile:
+  - name: "Linkedin"
+    icon: "fab fa-linkedin"
+    link: "#!"
 ---
