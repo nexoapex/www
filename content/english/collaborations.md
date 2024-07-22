@@ -120,4 +120,31 @@ team_members:
   - name: "Linkedin"
     icon: "fab fa-linkedin"
     link: "#!"
+
+    ######################### Portfolio #####################
+
+features_box:
+  enable: true
+  title: "OUR PORTFOLIO"
+  content: "Crafting digital products making the complex clear & beautiful."
+  features_box_item:
+  - image: "images/portfolio/1to1video-website.webp"
+    title: "Digital Avocados | 1to1video Website"
+    label: "view project"
+    link: "https://digitalavocados.com/portfolio/1to1video-website/"
+
+  - image: "images/portfolio/lactapp-infrastructure.jpeg"
+    title: "Digital Avocados | LactApp Digital Infrastructure"
+    label: "view project"
+    link: "https://digitalavocados.com/portfolio/lactapp-infrastructure/"
+
+  - image: "images/portfolio/lactapp-website.webp"
+    title: "Digital Avocados | LactApp Website"
+    label: "view project"
+    link: "https://digitalavocados.com/portfolio/lactapp-website/"
+
+  - image: "images/portfolio/tas-consultoria.webp"
+    title: "Digital Avocados | TAS Consultoria Website"
+    label: "view project"
+    link: "https://digitalavocados.com/portfolio/tas-consultoria/"
 ---
