@@ -1,5 +1,5 @@
 ---
-title: "L'equip que fa la diferència"
+title: "El equipo que hace la diferencia"
 subtitle: ""
 # meta description
 description: "This is meta description"
@@ -9,8 +9,8 @@ layout: "about"
 
 # about
 about:
-  title: "Som Nexo Apex. Una companyia que crea productes digitals i experiències per humans."
-  content: "Estem especialitzats en desenvolupar productes digitals avantguardes, bots, infrastructura digital, aplicacions híbrides i pàgines web. I fem això per portar els nostres clients a través de cada fase amb nosaltres."
+  title: "Somos Nexo Apex. Una compañía que crea productos digitales y experiencias para humanos."
+  content: "Estamos especializados en desarrollar productos digitales vanguardistas, bots, infraestructura digital, aplicaciones híbridas y páginas web. Y hacemos esto para llevar a nuestros clientes a través de cada fase con nosotros."
   image: "images/about.jpg"
 
 
@@ -33,19 +33,19 @@ about:
 
 # our_mission
 our_mission:
-  title: "Experiència"
+  title: "Experiencia"
   content: "<ul style='list-style: none;'>
-            <li>Productes digitals</li>
-            <li>Solucions d'arquitectura</li>
-            <li>Desenvolupament</li>
+            <li>Productos digitales</li>
+            <li>Soluciones de arquitectura</li>
+            <li>Desarrollo</li>
             <li>Cloud</li>
             <li>Bots</li>
-            <li>Infrastructura digital</li>
-            <li>Solucions hibrides</li>
+            <li>Infraestructura digital</li>
+            <li>Soluciones híbridas</li>
             <li>E-commerce</li>
             <li>Web</li>
-            <li>Rendiment</li>
-            <li>Aplicacions dissenyades a mida</li>
+            <li>Rendimiento</li>
+            <li>Aplicaciones diseñadas a medida</li>
             </ul>"
 
 
@@ -55,7 +55,7 @@ our_mission:
 # clients_logo_slider
 clients_logo_slider:
   enable : true
-  title: "Les empreses que confien amb el nostre judici"
+  title: "Las empresas que confían en nuestro juicio"
   logos:
   - "images/brands/lactapp-logo.png"
   - "images/brands/tas-logo.png"
