@@ -30,7 +30,7 @@ banner:
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "LA PRUEBA ESTAN EN LOS RESULTADOS!"
+  title : "LA PRUEBA ESTA EN LOS RESULTADOS!"
   feature_item:
   # feature item loop
   - name : "Clientes contentos"
