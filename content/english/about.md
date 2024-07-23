@@ -194,7 +194,7 @@ team_members:
     link: "#!"
 
 - name: "Francisco Rey"
-  designation: "Senior Backend Engineer"
+  designation: "Senior Backend Architect"
   image: "images/team/fran.jpeg"
   social_profile:
   - name: "Linkedin"
