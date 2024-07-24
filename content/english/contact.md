@@ -8,7 +8,7 @@ layout: "contact"
 ---
 
 
-#### Why you should contact us!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+#### Don’t be shy. Say Hello.
+Tell us about your project.
 
 * **Mail: info@nexoapex.com**
