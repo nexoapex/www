@@ -72,3 +72,40 @@ Contact information to exercise their rights: DIGITAL AVOCADOS OÜ. Sepapaja tn 
 <h3>Cookies used on this website</h3>
 
 <h5>Cookies controlled by the editor</h5>
+
+<h6>Technical and functional</h6>
+
+No technical or functional cookies are used in this website.
+
+<h6>Analytics</h6>
+
+| Property | Cookie | Purpose | Term |
+|----------|----------|----------|----------|
+| digitalavocados.com | _ga | Used to distinguish users | in 2 years |
+| digitalavocados.com | _ga_containerID | Used to persist session state | in 2 years |
+
+<h6>Third Party Cookies</h6>
+
+Third-party services are beyond the control of the editor. Suppliers may at any time modify their service conditions, the purpose and use of cookies, etc.
+
+External suppliers of this website:
+
+| Editor | Privacy policy |
+|----------|----------|
+| Google Analytics | https://privacy.google.com/take-control.html |
+
+<h5>Cookies configuration panel</h5>
+
+From this panel the user will be able to configure the cookies that the website can install in their browser, except for the technical or functional cookies that are necessary for browsing and using the different options or services that are offered.
+
+<h5>How to manage cookies from your browser</h5>
+
+* Delete cookies from your device: Cookies that are already on a device can be deleted by clearing the browser history, thus deleting the cookies from all websites visited. However, some of the saved information (e.g. login data or website preferences) may also be lost.
+
+* Manage site specific cookies: For more precise control of site specific cookies, users can adjust their privacy settings and cookies in their browser.
+
+* Blocking cookies: While most modern browsers can be configured to prevent cookies from being installed on a device, this may require the manual adjustment of certain preferences each time a site or page is visited. In addition, some services and features may not work properly (for example, profile logins).
+
+<h5>How to delete cookies from most common browser vendors</h5>
+
+Find [here](https://support.google.com/accounts/answer/32050/) how you can delete the cookies from your Web Browser.
