@@ -29,7 +29,7 @@ footer_content = "Desarrolla productos digitales <br> Guia la transformación di
 ################################### Catalan language #####################################
 [cat]
 languageName = "CAT"
-languageCode = "cat"
+languageCode = "ca"
 contentDir = "content/catalan"
 weight = 3
 [cat.params]
