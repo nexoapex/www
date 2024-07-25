@@ -91,8 +91,11 @@ content = """
 This website only uses two cookies, for analytics purposes, disabled by default. 
 Analytics cookies get activated, if only your browser settings allow so, when you click I accept. 
 You can reject them by clicking I do not accept cookies. <a href="https://digitalavocados.com/cookies/" target="_blank"> More information.</a>
+
+<button onclick="acceptCookies()">I accept</button>
+<button onclick="denyCookies()">I do not accept</button>
 """
-button = "I Accept"
+#button = "I Accept"
 
 ############################# social site ########################
 [[social]]
