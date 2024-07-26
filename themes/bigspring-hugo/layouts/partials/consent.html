@@ -43,11 +43,8 @@
 </div>
 <script>
 
-    const scripts = [];
-    {{ $consentItems := .Site.Data.consent.items | default (slice) }}
-    {{ range $index, $item := (where $consentItems "is_functional" false) }}
-    scripts[{{ $index }}] = "/js/{{ $item.script_file }}";
-    {{ end }}
+    const scripts = [];{{ range $index, $item := (where .Site.Data.consent.items "is_functional" false) }}
+    scripts[{{ $index }}] = "/themes/bigspring-hugo/assets/js/{{ $item.script_file }}";{{ end }}
 
     function createCookie(name,value,days) {
         var expires = "";
@@ -57,6 +54,7 @@
             expires = "; expires=" + date.toUTCString();
         }
         document.cookie = name + "=" + value + expires + "; path=/";
+        console.log(document.cookie)
     }
     function readCookie(name) {
         var nameEQ = name + "=";
