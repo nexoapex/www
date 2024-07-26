@@ -87,9 +87,11 @@ mastodon = "" # Your verification code
 [cookies]
 enable = true
 expire_days = 2
-content = "This website only uses two cookies, for analytics purposes, disabled by default. Analytics cookies get activated, if only your browser settings allow so, when you click I accept.
+content = """
+This website only uses two cookies, for analytics purposes, disabled by default. Analytics cookies get activated, if only your browser settings allow so, when you click I accept.
 You can reject them by clicking I do not accept cookies.
-More information"
+More information
+"""
 button = "I Accept"
 
 ############################# social site ########################

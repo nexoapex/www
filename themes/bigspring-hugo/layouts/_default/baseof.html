@@ -32,9 +32,11 @@
 	<!-- cache partial only in production -->
 	{{ if hugo.IsProduction }}
 	{{ partialCached "footer.html" . }}
+	{{ partial "consent.html" . }}
 	{{ partialCached "script.html" . }}
 	{{ else }}
 	{{ partial "footer.html" . }}
+	{{ partial "consent.html" . }}
 	{{ partial "script.html" . }}
 	{{ end }}
 </body>
