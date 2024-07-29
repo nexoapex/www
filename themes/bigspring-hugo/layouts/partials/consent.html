@@ -1,5 +1,5 @@
 <style>
-    #consent-notice {padding: 1rem 1rem; display: none; text-align: center; position: fixed; bottom: 0; width: calc(100% - 2rem); background: #222; color: rgba(255,255,255,0.8);}
+    #consent-notice {padding: 1rem 1rem; display: none; text-align: center; position: fixed; bottom: 0; width: calc(100%); background: #222;}
     #consent-notice span {margin-right: 1rem;}
     #consent-notice button {cursor: pointer; display: inline-block; width: auto;}
     #consent-notice span a {color: inherit; text-decoration: underline; text-decoration-color: rgba(255,255,255,0.5);}
@@ -23,8 +23,8 @@
         #consent-notice button.btn {position: relative; bottom: 4px;}
     }
 </style>
-<div id="consent-notice"><span>We would like to use <a class="manage-consent" href="#manage-consent">third party code</a> to improve the functionality of this website.</span><button class="btn manage-consent">Manage preferences</button><button class="btn deny-consent">Deny</button><button class="btn approve-consent">Allow</button></div>
-<div id="consent-overlay">
+<div id="consent-notice" class="bg-light"><span>We would like to use <a class="manage-consent" href="#manage-consent">third party code</a> to improve the functionality of this website.</span><button class="btn btn-outline-primary manage-consent">Manage preferences</button><button class="btn btn-outline-primary deny-consent">Deny</button><button class="btn btn-outline-primary approve-consent">Allow</button></div>
+<div id="consent-overlay" class="bg-light">
     <div>
         {{ range $index, $item := .Site.Data.consent.items }}
             <div>
