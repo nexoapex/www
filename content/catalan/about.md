@@ -34,7 +34,7 @@ about:
 # our_mission
 our_mission:
   title: "Experiència"
-  content: "<ul>
+  content: "<ul style='list-style: none;'>
             <li>Productes digitals</li>
             <li>Solucions d'arquitectura</li>
             <li>Desenvolupament</li>
@@ -186,6 +186,14 @@ team_members:
 - name: "Tu Nguyen"
   designation: "Senior Backend Engineer"
   image: "images/team/tu.jpeg"
+  social_profile:
+  - name: "Linkedin"
+    icon: "fab fa-linkedin"
+    link: "#!"
+
+- name: "Francisco Rey"
+  designation: "Senior Backend Architect"
+  image: "images/team/fran.jpeg"
   social_profile:
   - name: "Linkedin"
     icon: "fab fa-linkedin"

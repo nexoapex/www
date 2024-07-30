@@ -94,7 +94,7 @@
 <!-- feature box -->
 {{if .Params.features_box.enable}}
 {{with .Params.features_box}}
-<section class="section bg-light">
+<section class="section">
   <div class="container">
     <div class="row gy-4">
       <h2 class="mb-4 pb-2">{{ .title | markdownify }}</h2>
@@ -201,7 +201,7 @@
 
     <div class="row justify-content-center">
       <div class="col-xl-10">
-        <div class="swiper testimonial-carousel">
+        <div style="z-index: 0;" class="swiper testimonial-carousel">
           <div class="swiper-wrapper mb-3">
             {{range .testimonials_quotes}}
             <div class="swiper-slide text-center">

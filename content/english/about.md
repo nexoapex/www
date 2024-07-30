@@ -34,7 +34,7 @@ about:
 # our_mission
 our_mission:
   title: "Expertise"
-  content: "<ul>
+  content: "<ul style='list-style: none;'>
             <li>Digital Products</li>
             <li>Solutions Architecture</li>
             <li>Development</li>
@@ -193,5 +193,11 @@ team_members:
     icon: "fab fa-linkedin"
     link: "#!"
 
-
+- name: "Francisco Rey"
+  designation: "Senior Backend Architect"
+  image: "images/team/fran.jpeg"
+  social_profile:
+  - name: "Linkedin"
+    icon: "fab fa-linkedin"
+    link: "#!"
 ---

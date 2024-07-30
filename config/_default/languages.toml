@@ -6,10 +6,10 @@ contentDir = "content/english"
 weight = 1
 [en.params]
 ########### footer content ##########
-footer_menu_left = "Company"
-footer_menu_middle = "Products"
-footer_menu_right = "Support"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit consjat tristique eget amet."
+footer_menu_left = "Contact info"
+footer_menu_middle = "Sitemap"
+footer_menu_right = "Policies"
+footer_content = "Develop digital products <br> Guide digital transformation <br> Evolve digital infrastructure <br> Produce digital avocados"
 
 
 ################################### Español language #####################################
@@ -20,21 +20,21 @@ contentDir = "content/español"
 weight = 2
 [es.params]
 ########### footer content ##########
-footer_menu_left = "Firma"
-footer_menu_middle = "Producto"
-footer_menu_right = "Soporte"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit consjat tristique eget amet."
+footer_menu_left = "Info contacto"
+footer_menu_middle = "Map del sitio"
+footer_menu_right = "Políticas"
+footer_content = "Desarrolla productos digitales <br> Guia la transformación digital <br> Evoluciona la infraestructura digital <br> Producir digital avocados"
 
 
 ################################### Catalan language #####################################
-[cat]
+[ca]
 languageName = "CAT"
-languageCode = "cat"
+languageCode = "ca"
 contentDir = "content/catalan"
 weight = 3
-[cat.params]
+[ca.params]
 ########### footer content ##########
-footer_menu_left = "Signatura"
-footer_menu_middle = "Producte"
-footer_menu_right = "Suport"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit consjat tristique eget amet."
+footer_menu_left = "Info contacte"
+footer_menu_middle = "Mapa del lloc"
+footer_menu_right = "Polítiques"
+footer_content = "Desenvolupa productes digitals <br> Guia la transformació digital <br> Evoluciona la infraestructura digital <br> Produir digital avocados" 

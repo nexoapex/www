@@ -69,22 +69,22 @@ features_box:
   features_box_item:
   - image: "images/portfolio/1to1video-website.webp"
     title: "Digital Avocados | 1to1video Website"
-    label: "view project"
+    label: "veure projecte"
     link: "https://digitalavocados.com/portfolio/1to1video-website/"
 
   - image: "images/portfolio/lactapp-infrastructure.jpeg"
     title: "Digital Avocados | LactApp Digital Infrastructure"
-    label: "view project"
+    label: "veure projecte"
     link: "https://digitalavocados.com/portfolio/lactapp-infrastructure/"
 
   - image: "images/portfolio/lactapp-website.webp"
     title: "Digital Avocados | LactApp Website"
-    label: "view project"
+    label: "veure projecte"
     link: "https://digitalavocados.com/portfolio/lactapp-website/"
 
   - image: "images/portfolio/tas-consultoria.webp"
     title: "Digital Avocados | TAS Consultoria Website"
-    label: "view project"
+    label: "veure projecte"
     link: "https://digitalavocados.com/portfolio/tas-consultoria/"
 
 
@@ -182,6 +182,6 @@ call_to_action:
   title : "ANEM A TREBALLAR JUNTS"
   button:
     enable : true
-    label : "Enviar una consulta"
+    label : "Enviar Consulta"
     link : "contact/"
 ---

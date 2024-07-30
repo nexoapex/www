@@ -75,6 +75,10 @@ body.dark {
   .bg-light {
     background-color: $dark !important;
   }
+  
+  .bg-clients {
+    background-color: $grey !important;
+  }
 
   .text-muted,
   .text-dark {

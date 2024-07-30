@@ -39,14 +39,14 @@
                 {{ partial "logo.html" }}
               </a>
               <p class="mb-4">{{ site.Params.footer_content | markdownify }}</p>
-              {{ with site.Params.social }}
+              {{/*  {{ with site.Params.social }}
               <ul class="list-inline social-icons">
                 {{ range . }}
                 <li class="list-inline-item"><a href="{{ .link | safeURL }}" title="{{ .title }}"><i
                       class="{{ .icon }}"></i></a></li>
                 {{ end }}
               </ul>
-              {{ end }}
+              {{ end }}  */}}
             </div>
           </div>
         </div>
