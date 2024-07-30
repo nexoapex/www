@@ -8,7 +8,7 @@ layout: "contact"
 ---
 
 
-#### ¡Por qué debes contactar con nosotros!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+#### No tengas verguenza. Saluda.
+Cuéntanos más sobre tu proyecto.
 
 * **Correo: info@nexoapex.com**

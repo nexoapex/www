@@ -8,7 +8,7 @@ layout: "contact"
 ---
 
 
-#### Per que ens deuries de contactar!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+#### No tinguis vergonya. Saluda.
+Explica'ns més sobre el teu projecte.
 
 * **Correu: info@nexoapex.com**
