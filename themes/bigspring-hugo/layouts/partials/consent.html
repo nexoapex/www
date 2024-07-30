@@ -23,7 +23,7 @@
         #consent-notice button.btn {position: relative; bottom: 4px;}
     }
 </style>
-<div id="consent-notice" class="bg-light"><span>We would like to use <a class="manage-consent" href="#manage-consent">third party code</a> to improve the functionality of this website.</span><button class="btn btn-outline-primary manage-consent">Manage preferences</button><button class="btn btn-outline-primary deny-consent">Deny</button><button class="btn btn-outline-primary approve-consent">Allow</button></div>
+<div id="consent-notice" class="bg-light"><span>This website only uses two cookies, for analytics purposes, disabled by default. Analytics cookies get activated only if your browser settings allow so by clicking "Allow". You can reject them by clicking "Deny".</span><button class="btn btn-outline-primary deny-consent">Deny</button><button class="btn btn-outline-primary approve-consent">Allow</button></div>
 <div id="consent-overlay" class="bg-light">
     <div>
         {{ range $index, $item := .Site.Data.consent.items }}
