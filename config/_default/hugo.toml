@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-#baseURL = "https://nexoapex.com/"
-baseURL = "https://nexoapex.netlify.app/"
+baseURL = "https://nexoapex.com/"
+# baseURL = "https://nexoapex.netlify.app/"
 title = "Nexo Apex - Link to the Digital Summit"
 theme = "bigspring-hugo"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
