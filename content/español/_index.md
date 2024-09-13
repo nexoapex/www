@@ -1,11 +1,11 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Transformaciones digitales fructíferas"
+  title : "El enlace a la cima digital"
   image : "images/banner-art.svg"
   button:
     enable : true
-    label : "Conecta amb nosotros"
+    label : "Contacta con nosotros"
     link : "contact/"
 
 

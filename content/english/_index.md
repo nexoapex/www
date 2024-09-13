@@ -1,11 +1,11 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Fruitful Digital Transformation"
+  title : "The link to the digital summit"
   image : "images/banner-art.svg"
   button:
     enable : true
-    label : "Connect with Us"
+    label : "Contact Us"
     link : "contact/"
 
 

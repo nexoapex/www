@@ -23,7 +23,7 @@ weight = 4
 ##menú peu esquerre##
 
 [[footer_left]]
-name = "Sepapaja tn 6, 15551 Tallinn Estònia"
+name = "Edifici Camí Reial c/ Camí Reial, 13-17, 3a planta 43700 El Vendrell"
 #url = "/about"
 weight = 1
 
@@ -33,7 +33,7 @@ name = "+34 659 696 741"
 weight = 2
 
 [[footer_left]]
-name = "hi@digitalavocados.com"
+name = "hola@nexoapex.com"
 #url = "/how-it-works"
 weight = 3
 

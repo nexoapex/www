@@ -1,11 +1,11 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Transformacions digitals fructíferes"
+  title : "L'enllaç al cim digital"
   image : "images/banner-art.svg"
   button:
     enable : true
-    label : "Connecta amb nosaltres"
+    label : "Contacta amb nosaltres"
     link : "contact/"
 
 
