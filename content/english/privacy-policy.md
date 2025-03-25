@@ -7,7 +7,7 @@ draft: false
 ---
 #### Who is the controller of your personal data?
 
-DIGITAL AVOCADOS OÜ is the CONTROLLER of the USER’s personal data and informs him/her that these data shall be processed in accordance with the provisions of Regulation (EU) 2016/679 of 27 April (GDPR).
+NEXO APEX SL is the CONTROLLER of the USER’s personal data and informs him/her that these data shall be processed in accordance with the provisions of Regulation (EU) 2016/679 of 27 April (GDPR).
 
 #### Why do we process your personal data?
 
@@ -43,7 +43,7 @@ Your rights are:
    3. The right to file a claim with the Data Protection Inspectorate, Republic of Estonia (www.aki.ee/en) if you consider that the processing does not comply with the current  legislation.
 ###### Contact information for exercising rights
 
-Address: DIGITAL AVOCADOS OÜ. Sepapaja tn. 6, 15551 Tallinn, Estonia. Email: gdpr@digitalavocados.com
+Address: NEXO APEX SL. Carrer Cami Reial ,13-17, 3a planta El Vendrell; Tarragona 43700 Email: gdpr@nexoapex.com
 
 #### Compulsory or optional nature of the information provided by the user
 
@@ -57,6 +57,6 @@ That in accordance with the provisions of the current regulations on the protect
 
 The CONTROLLER guarantees that all appropriate technical and organisational policies have been implemented to apply the security measures established by the GDPR and LOPDGDD in order to protect the rights and freedoms of USERS and has communicated the appropriate information for them to be able to exercise them.
 
-For more information about privacy guarantees, you can ocntact the CONTROLLER through DIGITAL AVOCADOS OÜ.
+For more information about privacy guarantees, you can ocntact the CONTROLLER through NEXO APEX SL.
 
-Address: DIGITAL AVOCADOS OÜ. Sepapaja tn. 6, 15551 Tallinn, Estonia. Email: gdpr@digitalavocados.com
+Address: NEXO APEX SL. Carrer Cami Reial ,13-17, 3a planta El Vendrell; Tarragona 43700 Email: gdpr@nexoapex.com

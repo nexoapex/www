@@ -68,24 +68,24 @@ features_box:
   content: "Crafting digital products making the complex clear & beautiful."
   features_box_item:
   - image: "images/portfolio/1to1video-website.webp"
-    title: "Digital Avocados | 1to1video Website"
+    title: "Nexo Apex | 1to1video Website"
     label: "view project"
-    link: "https://digitalavocados.com/portfolio/1to1video-website/"
+    link: "https://nexoapex.com/portfolio/1to1video-website/"
 
   - image: "images/portfolio/lactapp-infrastructure.jpeg"
-    title: "Digital Avocados | LactApp Digital Infrastructure"
+    title: "Nexo Apex | LactApp Digital Infrastructure"
     label: "view project"
-    link: "https://digitalavocados.com/portfolio/lactapp-infrastructure/"
+    link: "https://nexoapex.com/portfolio/lactapp-infrastructure/"
 
   - image: "images/portfolio/lactapp-website.webp"
-    title: "Digital Avocados | LactApp Website"
+    title: "Nexo Apex | LactApp Website"
     label: "view project"
-    link: "https://digitalavocados.com/portfolio/lactapp-website/"
+    link: "https://nexoapex.com/portfolio/lactapp-website/"
 
   - image: "images/portfolio/tas-consultoria.webp"
-    title: "Digital Avocados | TAS Consultoria Website"
+    title: "Nexo Apex | TAS Consultoria Website"
     label: "view project"
-    link: "https://digitalavocados.com/portfolio/tas-consultoria/"
+    link: "https://nexoapex.com/portfolio/tas-consultoria/"
 
 
 
@@ -127,22 +127,22 @@ testimonials:
   content: "What clients says about our collaboration."
   
   testimonials_quotes:
-  - quote: "Digital Avocados have been key to our business when it comes to evolve our digital strategy and become a first-tech and cloud-native company."
+  - quote: "Nexo Apex have been key to our business when it comes to evolve our digital strategy and become a first-tech and cloud-native company."
     name: "Enric Pallarès"
     designation: "CEO, LactApp"
     image: "images/avatar/enric_pallares.jpeg"
 
-  - quote: "We invested plenty of resources and time testing other teams, freelancers, outsource companies and approaches. Digital Avocados have helped us tremendously."
+  - quote: "We invested plenty of resources and time testing other teams, freelancers, outsource companies and approaches. Nexo Apex have helped us tremendously."
     name: "Jordi Ginovart"
     designation: "CEO, 1to1video"
     image: "images/avatar/jordi_ginovart.jpeg"
 
-  - quote: "Digital Avocados have allowed us to deliver better quality to all our clients. The agility with which we can now implement new features and workflows is a key."
+  - quote: "Nexo Apex have allowed us to deliver better quality to all our clients. The agility with which we can now implement new features and workflows is a key."
     name: "Rocío Tovar"
     designation: "CTO, LactApp"
     image: "images/avatar/rocio_tovar.jpeg"
        
-  - quote: "Efficiency and reliability are the definitions to our collaboration with Digital Avocados. Terrific and fruitful work the one they have driven."
+  - quote: "Efficiency and reliability are the definitions to our collaboration with Nexo Apex. Terrific and fruitful work the one they have driven."
     name: "Jonatan Carbonell"
     designation: "CEO, TAS Consultoria"
     image: "images/avatar/jonatan_carbonell.jpeg"

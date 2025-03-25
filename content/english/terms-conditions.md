@@ -8,15 +8,15 @@ draft: false
 
 
 
-DIGITAL AVOCADOS OÜ, the person responsible for the website, hereinafter the CONTROLLER, makes this document available to users, which is intended to comply with the obligations provided in the General Data Protection Regulation (EU) 2016/679 of 27 April, as well as informing all website users of the conditions of use.
+NEXO APEX SL, the person responsible for the website, hereinafter the CONTROLLER, makes this document available to users, which is intended to comply with the obligations provided in the General Data Protection Regulation (EU) 2016/679 of 27 April, as well as informing all website users of the conditions of use.
 
 Any person who accesses this website acquires the status of user, and as such undertakes to strictly observe and comply with the provisions provided herein, as well as any other applicable legal clause.
 
-DIGITAL AVOCADOS OÜ reserves the right to modify any type of information that may appear on the website and is not obliged to give prior notice or inform users of such obligations, with publication on the website of DIGITAL AVOCADOS OÜ being understood as sufficient.
+NEXO APEX SL reserves the right to modify any type of information that may appear on the website and is not obliged to give prior notice or inform users of such obligations, with publication on the website of NEXO APEX SL being understood as sufficient.
 
 #### Identification Data
 
-Domain name: digitalavocados.com Commercial name: DIGITAL AVOCADOS OÜ Company name: DIGITAL AVOCADOS OÜ TIN: EE102209518 Registered address: Sepapaja tn 16 - 15551 Tallinn, Estonia Telephone: +34 659 696 741 Email: hi@digitalavocados.com
+Domain name: nexoapex.com Commercial name: NEXO APEX SL Company name: NEXO APEX SL TIN: EE102209518 Registered address: Carrer Cami Reial ,13-17, 3a planta El Vendrell; Tarragona 43700 Telephone: +34 659 696 741 Email: hi@nexoapex.com
 
 #### Intellectual and Industrial Property Rights
 
@@ -24,11 +24,11 @@ The website, including but not limited to its programming, editing, compilation 
 
 Regardless of their intended purpose, the total or partial reproduction, use, exploitation, distribution and commercialisation, requires in any case the prior written authorisation from the CONTROLLER. Any unauthorised use is considered a serious breach of the author’s intellectual or industrial property rights.
 
-The designs, logos, text and/or graphics not belonging to the CONTROLLER, and which may appear on the website, belong to their respective owners who are liable for any possible dispute that may arise regarding them. The CONTROLLER expressly authorises third parties to redirect to the specific content of the website, and in any case to redirect to the main website of digitalavocados.com.
+The designs, logos, text and/or graphics not belonging to the CONTROLLER, and which may appear on the website, belong to their respective owners who are liable for any possible dispute that may arise regarding them. The CONTROLLER expressly authorises third parties to redirect to the specific content of the website, and in any case to redirect to the main website of nexoapex.com.
 
 The CONTROLLER acknowledges the corresponding intellectual and industrial property rights in favour of their owners, and any mention or appearance on the website does not imply the existence of any rights or responsibility whatsoever over them, nor does it imply any endorsement, sponsorship or recommendation by the website.
 
-Comments regarding any possible breach of intellectual or industrial property rights, as well as regarding the contents of the website, can be made by contacting hi@digitalavocados.com.
+Comments regarding any possible breach of intellectual or industrial property rights, as well as regarding the contents of the website, can be made by contacting hi@nexoapex.com.
 
 #### Exemption from Liability
 

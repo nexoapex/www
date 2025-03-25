@@ -9,7 +9,7 @@ weight = 1
 footer_menu_left = "Contact info"
 footer_menu_middle = "Sitemap"
 footer_menu_right = "Policies"
-footer_content = "Develop digital products <br> Guide digital transformation <br> Evolve digital infrastructure <br> Produce digital avocados"
+footer_content = "Develop digital products <br> Guide digital transformation <br> Evolve digital infrastructure <br> Produce Nexo Apex"
 
 
 ################################### Español language #####################################
@@ -23,7 +23,7 @@ weight = 2
 footer_menu_left = "Info contacto"
 footer_menu_middle = "Map del sitio"
 footer_menu_right = "Políticas"
-footer_content = "Desarrolla productos digitales <br> Guia la transformación digital <br> Evoluciona la infraestructura digital <br> Producir digital avocados"
+footer_content = "Desarrolla productos digitales <br> Guia la transformación digital <br> Evoluciona la infraestructura digital <br> Producir Nexo Apex"
 
 
 ################################### Catalan language #####################################
@@ -37,4 +37,4 @@ weight = 3
 footer_menu_left = "Info contacte"
 footer_menu_middle = "Mapa del lloc"
 footer_menu_right = "Polítiques"
-footer_content = "Desenvolupa productes digitals <br> Guia la transformació digital <br> Evoluciona la infraestructura digital <br> Produir digital avocados" 
+footer_content = "Desenvolupa productes digitals <br> Guia la transformació digital <br> Evoluciona la infraestructura digital <br> Produir Nexo Apex" 

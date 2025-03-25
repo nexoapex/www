@@ -51,7 +51,7 @@ According to the EU directive, the cookies that require the user’s informed co
 
 <h5>Processing of Personal Data</h5>
 
-DIGITAL AVOCADOS OÜ is the CONTROLLER of the personal data of the Data Subject and informs them that these data will be processed in accordance with the provisions of Regulation (EU) 2016/679, of 27 April 2016 (GDPR), and therefore the following information on the processing is provided:
+NEXO APEX SL is the CONTROLLER of the personal data of the Data Subject and informs them that these data will be processed in accordance with the provisions of Regulation (EU) 2016/679, of 27 April 2016 (GDPR), and therefore the following information on the processing is provided:
 
 * Purposes of the data processing: as specified in the cookies section which are used on this website.
 
@@ -67,7 +67,7 @@ DIGITAL AVOCADOS OÜ is the CONTROLLER of the personal data of the Data Subject 
     * Right of access, rectification, portability and erasure of data and the limitation or objection to their processing.
     * The right to file a claim with the Data Protection Inspectorate, Republic of Estonia (www.aki.ee/en) if you consider that the processing does not comply with the current legislation.
 
-Contact information to exercise their rights: DIGITAL AVOCADOS OÜ. Sepapaja tn 6 - 15551 Tallinn, Estonia Email: gdpr@digitalavocados.com
+Contact information to exercise their rights: NEXO APEX SL. Carrer Cami Reial ,13-17, 3a planta El Vendrell; Tarragona 43700 Email: gdpr@nexoapex.com
 
 <h3>Cookies used on this website</h3>
 
@@ -81,8 +81,8 @@ No technical or functional cookies are used in this website.
 
 | Property | Cookie | Purpose | Term |
 |----------|----------|----------|----------|
-| digitalavocados.com | _ga | Used to distinguish users | in 2 years |
-| digitalavocados.com | _ga_containerID | Used to persist session state | in 2 years |
+| nexoapex.com | _ga | Used to distinguish users | in 2 years |
+| nexoapex.com | _ga_containerID | Used to persist session state | in 2 years |
 
 <h6>Third Party Cookies</h6>
 

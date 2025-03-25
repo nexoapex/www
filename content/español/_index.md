@@ -102,24 +102,24 @@ features_box:
   content: "Construyendo productos digitales transformando la complejidad en claredad y belleza."
   features_box_item:
   - image: "images/portfolio/1to1video-website.webp"
-    title: "Digital Avocados | 1to1video Website"
+    title: "Nexo Apex | 1to1video Website"
     label: "ver proyecto"
-    link: "https://digitalavocados.com/portfolio/1to1video-website/"
+    link: "https://nexoapex.com/portfolio/1to1video-website/"
 
   - image: "images/portfolio/lactapp-infrastructure.jpeg"
-    title: "Digital Avocados | LactApp Digital Infrastructure"
+    title: "Nexo Apex | LactApp Digital Infrastructure"
     label: "ver proyecto"
-    link: "https://digitalavocados.com/portfolio/lactapp-infrastructure/"
+    link: "https://nexoapex.com/portfolio/lactapp-infrastructure/"
 
   - image: "images/portfolio/lactapp-website.webp"
-    title: "Digital Avocados | LactApp Website"
+    title: "Nexo Apex | LactApp Website"
     label: "ver proyecto"
-    link: "https://digitalavocados.com/portfolio/lactapp-website/"
+    link: "https://nexoapex.com/portfolio/lactapp-website/"
 
   - image: "images/portfolio/tas-consultoria.webp"
-    title: "Digital Avocados | TAS Consultoria Website"
+    title: "Nexo Apex | TAS Consultoria Website"
     label: "ver proyecto"
-    link: "https://digitalavocados.com/portfolio/tas-consultoria/"
+    link: "https://nexoapex.com/portfolio/tas-consultoria/"
         
 ################### Testimonials ########################
 testimonials:
