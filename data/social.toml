@@ -1,0 +1,26 @@
+# Social data to replace Site.Social
+
+[[links]]
+title = "facebook"
+icon = "fab fa-facebook"
+link = "#!"
+
+[[links]]
+title = "twitter"
+icon = "fab fa-twitter"
+link = "#!"
+
+[[links]]
+title = "instagram"
+icon = "fab fa-instagram" 
+link = "#!"
+
+[[links]]
+title = "github"
+icon = "fab fa-github"
+link = "#!"
+
+[[links]]
+title = "linkedin"
+icon = "fab fa-linkedin"
+link = "#!" 

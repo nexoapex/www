@@ -1,0 +1,17 @@
+# Root config file for compatibility settings
+[security]
+  [security.funcs]
+    getenv = ["^HUGO_", "^CI$"]
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.145.0"
+
+[params]
+  # Compatibility params to replace deprecated Site.Social and Site.Authors
+  [params.Social]
+    # This will be used instead of .Site.Social
+    
+  [params.Authors]
+    # This will be used instead of .Site.Authors 

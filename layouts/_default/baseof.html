@@ -2,6 +2,9 @@
 <html lang="{{ site.LanguageCode | default `en-US` }}" itemscope itemtype="http://schema.org/WebPage">
 
 <head>
+	<!-- Load compatibility layer for Hugo 0.145.0+ -->
+	{{ partial "compatibility.html" . }}
+
 	<!-- head (don't cache it) -->
 	{{ partial "head.html" . }}
 

@@ -8,7 +8,7 @@ layout: "contact"
 ---
 
 
-#### No tengas verguenza. Saluda.
+#### No tengas vergüenza. Saludanos.
 Cuéntanos más sobre tu proyecto.
 
 * **Correo: info@nexoapex.com**

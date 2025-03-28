@@ -1,0 +1,11 @@
+{{/* Compatibility layer for Hugo 0.145.0+ */}}
+
+{{/* Define Site.Social replacement */}}
+{{ if not (isset . "Social") }}
+  {{ $.Scratch.Set "Social" site.Params.social }}
+{{ end }}
+
+{{/* Define Site.Authors replacement */}}
+{{ if not (isset . "Authors") }}
+  {{ $.Scratch.Set "Authors" site.Params.authors }}
+{{ end }} 

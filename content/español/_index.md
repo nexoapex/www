@@ -181,7 +181,7 @@ testimonials:
 ##################### Call to action #####################
 call_to_action:
   enable : true
-  title : "VAMOS A TRABAJAR JUNTOS"
+  title : "TRABAJEMOS JUNTOS"
   button:
     enable : true
     label : "Enviar Consulta"
