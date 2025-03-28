@@ -145,58 +145,58 @@ clients_logo_slider:
 team_members:
 - name: "David Pelayo"
   designation: "Director"
-  image: "images/team/david.webp"
+  image: "images/team/d.png"
   social_profile:
   - name: "Linkedin"
     icon: "fab fa-linkedin"
-    link: "#!"
+    link: "https://www.linkedin.com/in/davidpelayo/"
 
 - name: "Cong Bach Hung"
   designation: "Senior Backend Engineer"
-  image: "images/team/bach.webp"
-  social_profile:
-  - name: "Linkedin"
-    icon: "fab fa-linkedin"
-    link: "#!"
+  image: "images/team/b.png"
 
 - name: "Juan Luis Montero"
   designation: "Senior Consultant"
-  image: "images/team/juanlu.webp"
+  image: "images/team/j.png"
   social_profile:
   - name: "Linkedin"
     icon: "fab fa-linkedin"
-    link: "#!"
+    link: "https://www.linkedin.com/in/juanlumontero/"
 
 - name: "Khoa Pham"
   designation: "Senior DevOps"
-  image: "images/team/khoa.jpeg"
+  image: "images/team/k.png"
   social_profile:
   - name: "Linkedin"
     icon: "fab fa-linkedin"
-    link: "#!"
+    link: "https://www.linkedin.com/in/khoa-pham-610623174/"
 
 - name: "Yann Torres"
   designation: "Senior Consultant"
-  image: "images/team/yann.jpeg"
+  image: "images/team/y.png"
   social_profile:
   - name: "Linkedin"
     icon: "fab fa-linkedin"
-    link: "#!"
+    link: "https://www.linkedin.com/in/yann-torres/"
 
 - name: "Tu Nguyen"
   designation: "Senior Backend Engineer"
-  image: "images/team/tu.jpeg"
-  social_profile:
-  - name: "Linkedin"
-    icon: "fab fa-linkedin"
-    link: "#!"
+  image: "images/team/tu.png"
 
 - name: "Francisco Rey"
   designation: "Senior Backend Architect"
-  image: "images/team/fran.jpeg"
+  image: "images/team/f.png"
   social_profile:
   - name: "Linkedin"
     icon: "fab fa-linkedin"
-    link: "#!"
+    link: "https://www.linkedin.com/in/francisco-r-6a231613a/"
+
+- name: "Fujale Ahmed Shaik"
+  designation: "Senior FullStack Engineer"
+  image: "images/team/fu.png"
+  social_profile:
+  - name: "Linkedin"
+    icon: "fab fa-linkedin"
+    link: "https://www.linkedin.com/in/fujale-ahmed-shaik-a4633861/"
 
 ---
