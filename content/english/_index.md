@@ -1,7 +1,8 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "The link to the digital summit"
+  title : "We craft software."
+  subtitle : "Your <i>Nexus</i> to the Digital <i>Apex</i>"
   image : "images/banner-art.svg"
   button:
     enable : true
@@ -136,11 +137,6 @@ testimonials:
     name: "Jordi Ginovart"
     designation: "CEO, 1to1video"
     image: "images/avatar/jordi_ginovart.jpeg"
-
-  - quote: "Nexo Apex have allowed us to deliver better quality to all our clients. The agility with which we can now implement new features and workflows is a key."
-    name: "Rocío Tovar"
-    designation: "CTO, LactApp"
-    image: "images/avatar/rocio_tovar.jpeg"
        
   - quote: "Efficiency and reliability are the definitions to our collaboration with Nexo Apex. Terrific and fruitful work the one they have driven."
     name: "Jonatan Carbonell"

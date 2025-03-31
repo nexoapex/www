@@ -2,14 +2,14 @@
 title: "Team that makes the difference."
 subtitle: ""
 # meta description
-description: "This is meta description"
+description: "We are specialized in developing forward-thinking digital products, bots, digital infastructure, hybrid applications and websites. And we do this by bringing our customers through each phase of the implementation process with us."
 draft: false
 layout: "about"
 
 
 # about
 about:
-  title: "We are Nexo Apex. A company that creates digital products and experiences for humans."
+  title: "We are a company that creates digital products and experiences for humans."
   content: "We are specialized in developing forward-thinking digital products, bots, digital infastructure, hybrid applications and websites. And we do this by bringing our customers through each phase of the implementation process with us."
   image: "images/about.jpg"
 

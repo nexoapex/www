@@ -1,7 +1,7 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "El enlace a la cima digital"
+  title : "Desarrollamos software."
   image : "images/banner-art.svg"
   button:
     enable : true

@@ -1,5 +1,5 @@
 ---
-title: "Nexo Apex"
+title: "Collaborations"
 #subtitle: "Meet our team"
 # meta description
 description: "Vestibulum ante ipsum primis in faucibus orci luctus ultrices posuere cubilia Curae Donec"

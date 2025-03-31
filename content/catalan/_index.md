@@ -1,7 +1,7 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "L'enllaç al cim digital"
+  title : "Fem software."
   image : "images/banner-art.svg"
   button:
     enable : true
