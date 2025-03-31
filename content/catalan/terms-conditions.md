@@ -2,7 +2,7 @@
 title: "Terms of Service"
 subtitle: ""
 # meta description
-description: "This is meta description"
+description: "We build / desarrollamos / fem software."
 draft: false
 ---
 

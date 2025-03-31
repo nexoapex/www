@@ -8,7 +8,7 @@ author: "Awab Husameldin"
 # post type (regular/featured)
 type: "regular"
 # meta description
-description: "This is meta description"
+description: "We build / desarrollamos / fem software."
 # post draft
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "How it Works"
 subtitle: ""
 # meta description
-description: "This is meta description"
+description: "We build / desarrollamos / fem software."
 draft: false
 layout: "how-it-works"
 

@@ -2,7 +2,7 @@
 title: "Cookies Policy"
 subtitle: ""
 # meta description
-description: "This is meta description"
+description: "We build / desarrollamos / fem software."
 draft: false
 ---
 <h3>Information about Cookies</h3>

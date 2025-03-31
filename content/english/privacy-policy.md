@@ -2,7 +2,7 @@
 title: "Privacy & Policy"
 subtitle: ""
 # meta description
-description: "This is meta description"
+description: "We build / desarrollamos / fem software."
 draft: false
 ---
 #### Who is the controller of your personal data?
