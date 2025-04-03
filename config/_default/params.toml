@@ -52,7 +52,7 @@ crisp_website_id = "9aa449e1-9999-422a-938f-8567982eec6d" # replace this code wi
 keywords = ["Hugo", "Themefisher", "Gethugothemes"]
 description = "This is meta description"
 author = "Gethugothemes"
-image = "images/nexoapex_logo.png"                           # this image will be used as fallback if a page has no image of its own
+image = "images/nexoapex_logo_small.png"                           # this image will be used as fallback if a page has no image of its own
 
 # matomo tracking: see https://matomo.org/
 [matomo]
