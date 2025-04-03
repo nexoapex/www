@@ -1,0 +1,2 @@
+{{ $manifest := resources.Get "images/favicon/site.webmanifest" | resources.ExecuteAsTemplate "site.webmanifest" . }}
+<link rel="manifest" href="{{ $manifest.Permalink }}"> 

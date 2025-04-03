@@ -1,0 +1,64 @@
+<meta charset="utf-8">
+<title>{{.Title | default site.Title}}</title>
+
+<!-- responsive meta -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+
+<meta name="theme-name" content="bigspring-hugo" />
+
+<!-- favicon -->
+<link rel="icon" href="{{ (resources.Get "images/favicon/favicon.ico").Permalink }}" type="image/x-icon">
+<link rel="shortcut icon" href="{{ (resources.Get "images/favicon/favicon.ico").Permalink }}" type="image/x-icon">
+<link rel="apple-touch-icon" href="{{ (resources.Get "images/favicon/apple-touch-icon.png").Permalink }}">
+<link rel="icon" type="image/png" sizes="96x96" href="{{ (resources.Get "images/favicon/favicon-96x96.png").Permalink }}">
+<link rel="icon" type="image/svg+xml" href="{{ (resources.Get "images/favicon/favicon.svg").Permalink }}">
+
+<!-- manifest -->
+{{ $manifest := resources.Get "images/favicon/site.webmanifest" | resources.ExecuteAsTemplate "site.webmanifest" . }}
+<link rel="manifest" href="{{ $manifest.Permalink }}">
+
+<!-- site verifications -->
+{{ partialCached "site-verifications.html" . }}
+
+<!-- opengraph and twitter card -->
+{{ partial "basic-seo.html" . }}
+
+<!-- custom script -->
+{{ partialCached "custom-script.html" . }}
+
+<!-- google analytics -->
+{{ template "_internal/google_analytics.html" . }}
+
+<!-- google tag manager -->
+{{ partialCached "gtm.html" . }}
+
+<!-- matomo analytics -->
+{{ partialCached "matomo-analytics.html" . }}
+
+<!--  Baidu analytics -->
+{{ partialCached "baidu-analytics.html" . }}
+
+<!-- Plausible Analytics -->
+{{ partialCached "plausible-analytics.html" . }}
+
+<!-- Counter Analytics -->
+{{ partialCached "counter-analytics.html" . }}
+
+<!-- HTML Meta Tags -->
+<title>Nexo Apex - We build / hacemos / fem software</title>
+<meta name="description" content="We are a company that creates digital products and experiences for humans.">
+
+<!-- Facebook Meta Tags -->
+<meta property="og:url" content="https://nexoapex.com/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Nexo Apex - We build / hacemos / fem software">
+<meta property="og:description" content="We are a company that creates digital products and experiences for humans.">
+<meta property="og:image" content="https://opengraph.b-cdn.net/production/images/7d632589-7727-41f0-ab6b-7551a3b6aa0f.png?token=cjkS49WQlHveafWohEHlI6UJ4q866nWKpxg7h-JVB1k&height=1024&width=1024&expires=33279435832">
+
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:domain" content="nexoapex.com">
+<meta property="twitter:url" content="https://nexoapex.com/">
+<meta name="twitter:title" content="Nexo Apex - We build / hacemos / fem software">
+<meta name="twitter:description" content="We are a company that creates digital products and experiences for humans.">
+<meta name="twitter:image" content="https://opengraph.b-cdn.net/production/images/7d632589-7727-41f0-ab6b-7551a3b6aa0f.png?token=cjkS49WQlHveafWohEHlI6UJ4q866nWKpxg7h-JVB1k&height=1024&width=1024&expires=33279435832"> 

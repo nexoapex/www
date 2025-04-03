@@ -1,0 +1,24 @@
+{
+  "name": "{{site.Title}}",
+  "short_name": "{{site.Title}}",
+  "lang": "{{ site.LanguageCode | default `en-us` }}",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "start_url": "{{ site.BaseURL | absURL }}?utm_source=web_app_manifest",
+  "background_color": "{{ site.Params.variables.body_color | default `#fff`}}",
+  "theme_color": "{{ site.Params.variables.color_primary | default `#000`}}",
+
+  "icons": [
+    {
+      "src": "{{ (resources.Get "images/favicon/web-app-manifest-192x192.png").RelPermalink }}",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "{{ (resources.Get "images/favicon/web-app-manifest-512x512.png").RelPermalink }}",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+} 

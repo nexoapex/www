@@ -1,6 +1,6 @@
 #################### default parameters ################################
 # favicon
-favicon = "images/favicon.png"
+favicon = "images/favicon/favicon-96x96.png"
 # logo
 logo = "images/nexoapex_logo_nobackground.png"
 logo_darkmode = "images/dark_mode.png"
