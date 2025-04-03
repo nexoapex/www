@@ -1,26 +1,10 @@
 # Social data to replace Site.Social
+[[links]]
+title = "x"
+icon = "fab fa-x-twitter" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://x.com/nexoapex"
 
 [[links]]
-title = "facebook"
-icon = "fab fa-facebook"
-link = "#!"
-
-[[links]]
-title = "twitter"
-icon = "fab fa-twitter"
-link = "#!"
-
-[[links]]
-title = "instagram"
-icon = "fab fa-instagram" 
-link = "#!"
-
-[[links]]
-title = "github"
-icon = "fab fa-github"
-link = "#!"
-
-[[links]]
-title = "linkedin"
-icon = "fab fa-linkedin"
-link = "#!" 
+title = "telegram"
+icon = "fab fa-telegram" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://t.me/nexoapex"

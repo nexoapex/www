@@ -90,3 +90,9 @@
   
 - id: search_faq
   translation: Feu clic i cerqueu preguntes freqüents..
+
+- id: nav_button
+  translation: Contacta
+
+- id: toc
+  translation: Taula de continguts

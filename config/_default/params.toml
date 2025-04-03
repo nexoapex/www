@@ -15,7 +15,7 @@ logo_text = "NexoApex"
 theme_switcher = true
 theme_default = "system" # available options [light/dark/system]
 # Main Sections
-mainSections = ["blog"]
+mainSections = ["news"]
 # contact form action
 contact_form_action = "https://airform.io/info@nexoapex.com" # contact form works with [https://airform.io/] or [https://formspree.io]
 # demo form action
@@ -36,10 +36,10 @@ enable = true
 preloader = "" # use jpg, png, svg or gif format. example - "images/preloader.gif"
 
 # Navigation button
-# [navigation_button]
-# enable = true
-# label = "Get a Demo"
-# link = "get-demo/"
+[navigation_button]
+enable = true
+label = "Contact"
+link = "contact/"
 
 # Crisp Chat
 [crisp_chat]
@@ -52,7 +52,7 @@ crisp_website_id = "9aa449e1-9999-422a-938f-8567982eec6d" # replace this code wi
 keywords = ["Hugo", "Themefisher", "Gethugothemes"]
 description = "This is meta description"
 author = "Gethugothemes"
-image = "images/logo.png"                           # this image will be used as fallback if a page has no image of its own
+image = "images/nexoapex_logo.png"                           # this image will be used as fallback if a page has no image of its own
 
 # matomo tracking: see https://matomo.org/
 [matomo]
@@ -101,14 +101,14 @@ mastodon = "" # Your verification code
 # link = ""
 
 # [[social]]
-# title = "twitter"
-# icon = "fab fa-twitter" # fontawesome icon pack : https://fontawesome.com/icons/
-# link = ""
+# title = "x"
+# icon = "fab fa-x-twitter" # fontawesome icon pack : https://fontawesome.com/icons/
+# link = "https://x.com/ddpelayo"
 
 # [[social]]
-# title = "instagram"
-# icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-# link = ""
+# title = "telegram"
+# icon = "fab fa-telegram" # fontawesome icon pack : https://fontawesome.com/icons/
+# link = "https://t.me/nexoapex"
 
 # [[social]]
 # title = "github"

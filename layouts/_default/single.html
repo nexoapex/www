@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <!-- checking blog -->
-{{ if or (or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs")) (or (eq .Section "categories") (eq .Section "tags") )}}
+{{ if or (or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news")) (or (eq .Section "categories") (eq .Section "tags") )}}
 
 <section class="section">
   <div class="container">
@@ -9,22 +9,49 @@
       <div class="col-lg-8 mx-auto">
         {{ partial "image" (dict "Src" .Params.image "Alt" .Title "Class" "rounded-2 w-100 mb-5") }}
         
-        {{ with site.GetPage (string .Params.Author | urlize | lower) }}
-        <div class="d-inline-flex align-items-center mb-3 me-3">
-          <div class="user-image me-1">
-            {{ if .Params.image }}
-            <a href="{{.RelPermalink}}" title="{{.Title}}">
-              {{ partial "image" (dict "Src" .Params.image "Alt" .Title "Class" "rounded-circle" "Command" "Fill" "Size" "30x30") }}
-            </a>
-            {{ else }}
-            <i class="far fa-user-circle position-relative" style="font-size:26px;top:2px"></i>
-            {{ end }}
+        <div class="d-flex justify-content-between align-items-center mb-4">
+          <div>
+            {{ with site.GetPage (string .Params.Author | urlize | lower) }}
+            <div class="d-inline-flex align-items-center me-3">
+              <div class="user-image me-1">
+                {{ if .Params.image }}
+                <a href="{{.RelPermalink}}" title="{{.Title}}">
+                  {{ partial "image" (dict "Src" .Params.image "Alt" .Title "Class" "rounded-circle" "Command" "Fill" "Size" "30x30") }}
+                </a>
+                {{ else }}
+                <i class="far fa-user-circle position-relative" style="font-size:26px;top:2px"></i>
+                {{ end }}
+              </div>
+              <div class="user-info">
+                <p class="fw-500 mb-0"><span class="mx-1">{{i18n `by`}}</span>{{if .Title}}<a class="text-dark" href="{{.RelPermalink}}">{{ .Title }}</a>{{else}}<span class="text-muted">{{i18n `admin`}}</span> {{end}}</p>
+              </div>
+            </div>
+            {{end}}
           </div>
-          <div class="user-info">
-            <p class="fw-500 mb-0"><span class="mx-1">{{i18n `by`}}</span>{{if .Title}}<a class="text-dark" href="{{.RelPermalink}}">{{ .Title }}</a>{{else}}<span class="text-muted">{{i18n `admin`}}</span> {{end}}</p>
+          
+          <!-- Language Selector for News Posts -->
+          {{ if and .IsTranslated (eq .Section "news") }}
+          <div class="language-select">
+            <select class="form-select form-select-sm border-0" onchange="location = this.value;">
+              {{ $siteLanguages := site.Languages}}
+              {{ $pageLang := .Page.Lang}}
+              {{ range .Page.AllTranslations }}
+              {{ $translation := .}}
+              {{ range $siteLanguages }}
+              {{ if eq $translation.Lang .Lang }}
+              {{ $selected := false }}
+              {{ if eq $pageLang .Lang}}
+              <option id="{{ $translation.Language }}" value="{{ $translation.RelPermalink }}" selected>{{ .LanguageName }}</option>
+              {{ else }}
+              <option id="{{ $translation.Language }}" value="{{ $translation.RelPermalink }}">{{ .LanguageName }}</option>
+              {{ end }}
+              {{ end }}
+              {{ end }}
+              {{ end }}
+            </select>
           </div>
+          {{ end }}
         </div>
-        {{end}}
         
         <span class="text-muted fw-500"><i class="far fa-calendar-alt text-dark me-1"></i> {{ time.Format ":date_long" .PublishDate }} <span class="mx-1 text-dark-50 fw-500">|</span> <i class="far fa-clock text-dark me-1"></i> {{.ReadingTime}} {{i18n `min_read`}}</span>
 

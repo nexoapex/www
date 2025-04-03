@@ -90,3 +90,9 @@
   
 - id: search_faq
   translation: Haga clic y busque preguntas frecuentes..
+
+- id: nav_button
+  translation: Contacta
+
+- id: toc
+  translation: Tabla de contenidos

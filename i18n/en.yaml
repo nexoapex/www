@@ -90,3 +90,9 @@
   
 - id: search_faq
   translation: Click and search FAQ..
+
+- id: nav_button
+  translation: Contact
+
+- id: toc
+  translation: Table of Contents
