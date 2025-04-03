@@ -35,22 +35,22 @@ feature:
   # feature item loop
   - name : "Clientes contentos"
    
-    content : "20+"
+    content : "100+"
     
   # feature item loop
   - name : "Proyectos finalizados"
 
-    content : "50+"
+    content : "100+"
     
   # feature item loop
   - name : "Tazas de café"
 
-    content : "4.5k+"
+    content : "10k+"
     
   # feature item loop
   - name : "Reuniones"
 
-    content : "500+"
+    content : "1000+"
       
       
 ######################### Intro Video #####################
@@ -102,24 +102,24 @@ features_box:
   content: "Construyendo productos digitales transformando la complejidad en claredad y belleza."
   features_box_item:
   - image: "images/portfolio/1to1video-website.webp"
-    title: "Nexo Apex | 1to1video Website"
-    label: "ver proyecto"
-    link: "https://nexoapex.com/portfolio/1to1video-website/"
+    title: "1to1video Website"
+    # label: "ver proyecto"
+    # link: "https://nexoapex.com/portfolio/1to1video-website/"
 
   - image: "images/portfolio/lactapp-infrastructure.jpeg"
-    title: "Nexo Apex | LactApp Digital Infrastructure"
-    label: "ver proyecto"
-    link: "https://nexoapex.com/portfolio/lactapp-infrastructure/"
+    title: "LactApp Digital Infrastructure"
+    # label: "ver proyecto"
+    # link: "https://nexoapex.com/portfolio/lactapp-infrastructure/"
 
   - image: "images/portfolio/lactapp-website.webp"
-    title: "Nexo Apex | LactApp Website"
-    label: "ver proyecto"
-    link: "https://nexoapex.com/portfolio/lactapp-website/"
+    title: "LactApp Website"
+    # label: "ver proyecto"
+    # link: "https://nexoapex.com/portfolio/lactapp-website/"
 
   - image: "images/portfolio/tas-consultoria.webp"
-    title: "Nexo Apex | TAS Consultoria Website"
-    label: "ver proyecto"
-    link: "https://nexoapex.com/portfolio/tas-consultoria/"
+    title: "TAS Consultoria Website"
+    # label: "ver proyecto"
+    # link: "https://nexoapex.com/portfolio/tas-consultoria/"
         
 ################### Testimonials ########################
 testimonials:

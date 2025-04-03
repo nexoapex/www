@@ -4,7 +4,7 @@ date: 2025-04-03T16:00:00+02:00
 # post image
 image: "images/website_ca.png"
 # author
-author: "Nexo Apex"
+author: "David Pelayo"
 # post type (regular/featured)
 type: "featured"
 # meta description

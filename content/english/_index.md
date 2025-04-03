@@ -36,22 +36,22 @@ feature:
   # feature item loop
   - name : "Happy Clients"
    
-    content : "20+"
+    content : "100+"
     
   # feature item loop
   - name : "Projects Completed"
 
-    content : "50+"
+    content : "100+"
     
   # feature item loop
   - name : "Cups of coffee"
 
-    content : "4.5k+"
+    content : "10k+"
     
   # feature item loop
   - name : "Meeting Talks"
 
-    content : "500+"
+    content : "1000+"
      
 ######################### Intro Video #####################
 # intro_video:
@@ -69,22 +69,22 @@ features_box:
   content: "Crafting digital products making the complex clear & beautiful."
   features_box_item:
   - image: "images/portfolio/1to1video-website.webp"
-    title: "Nexo Apex | 1to1video Website"
+    title: "1to1video Website"
     label: "view project"
     link: "https://nexoapex.com/portfolio/1to1video-website/"
 
   - image: "images/portfolio/lactapp-infrastructure.jpeg"
-    title: "Nexo Apex | LactApp Digital Infrastructure"
+    title: "LactApp Digital Infrastructure"
     label: "view project"
     link: "https://nexoapex.com/portfolio/lactapp-infrastructure/"
 
   - image: "images/portfolio/lactapp-website.webp"
-    title: "Nexo Apex | LactApp Website"
+    title: "LactApp Website"
     label: "view project"
     link: "https://nexoapex.com/portfolio/lactapp-website/"
 
   - image: "images/portfolio/tas-consultoria.webp"
-    title: "Nexo Apex | TAS Consultoria Website"
+    title: "TAS Consultoria Website"
     label: "view project"
     link: "https://nexoapex.com/portfolio/tas-consultoria/"
 

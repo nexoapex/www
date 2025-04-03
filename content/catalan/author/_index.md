@@ -1,7 +1,7 @@
 ---
-title: "Author"
+title: "Autor"
 subtitle: ""
-description: "Read latest blog posts by Author"
+description: "Llegeix les notícies per autor"
 draft: false
 ---
 

@@ -13,7 +13,7 @@ logo_webp = true
 logo_text = "NexoApex"
 # theme-mode
 theme_switcher = true
-theme_default = "system" # available options [light/dark/system]
+theme_default = "light" # available options [light/dark/system]
 # Main Sections
 mainSections = ["news"]
 # contact form action

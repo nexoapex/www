@@ -1,8 +1,8 @@
 ---
-title: "All Products"
-subtitle: "The Operation System for your Business"
+title: "Our products"
+subtitle: "Nexo Apex's Digital Products"
 # meta description
-description: "The Operation System for your Business"
+description: "Nexo Apex's Digital Products"
 draft: false
 # content section
 section: "products"
