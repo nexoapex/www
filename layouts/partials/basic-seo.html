@@ -91,6 +91,7 @@
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:image" content="{{ $imagePath | absURL }}" />
   <meta property="og:image" content="{{ $imagePath | absURL }}" />
+  <meta property="og:logo" content="{{ $imagePath | absURL }}" size="626x630" />
 {{ else }}
   <!-- check cdn/static image -->
 
@@ -122,6 +123,7 @@
       {{ if (and (gt $imageWidth 144) (gt $imageHeight 144)) }}
         <meta property="og:image" content="{{ $image.Permalink }}" />
         <meta name="twitter:image" content="{{ $image.Permalink }}" />
+        <meta property="og:logo" content="{{ $image.Permalink }}" size="626x630" />
         <meta name="twitter:card" content="summary{{ if (and (gt $imageWidth 300) (gt $imageHeight 157) (not (eq $imageWidth $imageHeight))) }}_large_image{{ end }}" />
       {{ end }}
       <!-- /if image gt 144px -->
@@ -143,7 +145,6 @@
 <meta property="og:description" content="{{ $description }}" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ .Permalink }}" />
-<meta property="og:logo" content="{{ $image.Permalink }}" size="626x630" />
 
 <!-- ########## twitter others meta ############### -->
 <meta name="twitter:title" content="{{ $title }}" />
